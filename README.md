@@ -23,6 +23,7 @@ xx. Genera datasets sintéticos (usuarios, restaurantes y reseñas) con **PyDBGe
 |── data
 |   |── raw/          # Datos originales o sintéticos sin procesar
 |   |── processed/    # Datos limpios listos para ML
+|── models
 |── mvp_data_pipeline.py
 |── mvp_model_training.py
 |── mvp_dashboard_svd.py
