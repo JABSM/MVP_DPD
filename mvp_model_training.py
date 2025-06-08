@@ -57,10 +57,9 @@ datos de entrada.
 
 def load_reviews(path: Path) -> pd.DataFrame:
     df = pd.read_csv(path)
-    # Informativo: porcentaje de reseñas marcadas como tóxicas
     if "is_toxic" in df.columns:
         toxic_ratio = df["is_toxic"].mean()
-        print(f"→ Reseñas tóxicas en el dataset: {toxic_ratio:.2%} "
+        print(f"Reseñas tóxicas en el dataset: {toxic_ratio:.2%} "
               f"({df['is_toxic'].sum()} de {len(df)})")
     needed = {"user_id", "restaurant_id", "rating"}
     if not needed.issubset(df.columns):
