@@ -1,0 +1,901 @@
+review_id,user_id,restaurant_id,rating,review_text
+1,125,28,4,Excelente los dueños maravillosos
+2,192,36,2,Servicio lento pero comida excelente
+3,122,46,2,¡Buenísimo!
+4,91,23,2,"Una puta mierda, no he ido pero son uno cerdos y el sitio da por cuulo"
+5,186,33,2,El mejor sushi de la ciudad
+6,140,22,4,"No vuelvo, muy ruidoso"
+7,58,18,1,"No vuelvo, muy ruidoso"
+8,61,24,2,Precio/calidad correcto
+9,148,18,3,"Una puta mierda, no he ido pero son uno cerdos y el sitio da por cuulo"
+10,198,44,1,Servicio lento pero comida excelente
+11,143,25,2,Excelente los dueños maravillosos
+12,49,26,5,"Una puta mierda, no he ido pero son uno cerdos y el sitio da por cuulo"
+13,85,20,5,09986 ~# 
+14,167,29,3,Servicio lento pero comida excelente
+15,96,40,4,"Trato nefasto, deberian cerrar"
+16,9,33,2,"Así, así, caro y LA comida no eS para tanto"
+17,87,7,3,¡Buenísimo!
+18,84,34,3,¡Buenísimo!
+19,89,48,3,Servicio lento pero comida excelente
+20,3,23,4,"No vuelvo, muy ruidoso"
+21,194,42,2,"No vuelvo, muy ruidoso"
+22,186,17,3,09986 ~# 
+23,117,48,3,"Trato nefasto, deberian cerrar"
+24,5,43,4,¡Buenísimo!
+25,149,8,3,09986 ~# 
+26,152,1,1,"No vuelvo, muy ruidoso"
+27,43,21,2,"Una puta mierda, no he ido pero son uno cerdos y el sitio da por cuulo"
+28,56,17,4,Excelente los dueños maravillosos
+29,140,25,2,"Una puta mierda, no he ido pero son uno cerdos y el sitio da por cuulo"
+30,4,16,4,09986 ~# 
+31,111,39,2,"Así, así, caro y LA comida no eS para tanto"
+32,93,2,5,"No vuelvo, muy ruidoso"
+33,156,47,2,$&%&/$%/%/
+34,34,16,2,"Trato nefasto, deberian cerrar"
+35,186,28,4,El mejor sushi de la ciudad
+36,147,16,1,¡Buenísimo!
+37,10,39,1,Precio/calidad correcto
+38,85,7,1,"Una puta mierda, no he ido pero son uno cerdos y el sitio da por cuulo"
+39,184,36,2,"Así, así, caro y LA comida no eS para tanto"
+40,74,41,5,Demasiado hijos putA·$·& para mi gusto
+41,106,10,4,El mejor sushi de la ciudad
+42,109,3,2,Precio/calidad correcto
+43,18,10,5,"No vuelvo, muy ruidoso"
+44,104,14,5,Demasiado hijos putA·$·& para mi gusto
+45,113,6,5,Servicio lento pero comida excelente
+46,167,30,1,Servicio lento pero comida excelente
+47,135,17,2,"Así, así, caro y LA comida no eS para tanto"
+48,38,35,3,Servicio lento pero comida excelente
+49,20,24,1,Demasiado hijos putA·$·& para mi gusto
+50,34,23,2,Demasiado hijos putA·$·& para mi gusto
+51,140,14,3,"Trato nefasto, deberian cerrar"
+52,56,12,2,El mejor sushi de la ciudad
+53,149,41,2,¡Buenísimo!
+54,125,17,2,"Una puta mierda, no he ido pero son uno cerdos y el sitio da por cuulo"
+55,140,44,5,$&%&/$%/%/
+56,172,24,3,09986 ~# 
+57,44,30,1,Servicio lento pero comida excelente
+58,5,12,3,"Así, así, caro y LA comida no eS para tanto"
+59,47,25,5,Servicio lento pero comida excelente
+60,69,18,5,09986 ~# 
+61,36,19,4,El mejor sushi de la ciudad
+62,127,35,3,Excelente los dueños maravillosos
+63,58,6,4,"Trato nefasto, deberian cerrar"
+64,57,48,1,Demasiado hijos putA·$·& para mi gusto
+65,147,18,1,"Trato nefasto, deberian cerrar"
+66,198,35,3,"No vuelvo, muy ruidoso"
+67,171,12,5,"Una puta mierda, no he ido pero son uno cerdos y el sitio da por cuulo"
+68,126,28,3,Servicio lento pero comida excelente
+69,178,31,1,¡Buenísimo!
+70,35,28,5,Excelente los dueños maravillosos
+71,123,11,5,"No vuelvo, muy ruidoso"
+72,6,26,2,El mejor sushi de la ciudad
+73,143,44,2,Servicio lento pero comida excelente
+74,18,15,2,"No vuelvo, muy ruidoso"
+75,25,37,2,Servicio lento pero comida excelente
+76,46,49,4,"Así, así, caro y LA comida no eS para tanto"
+77,91,44,5,El mejor sushi de la ciudad
+78,63,25,4,$&%&/$%/%/
+79,134,20,1,Excelente los dueños maravillosos
+80,198,19,5,Demasiado hijos putA·$·& para mi gusto
+81,132,35,2,Precio/calidad correcto
+82,43,37,1,Demasiado hijos putA·$·& para mi gusto
+83,133,28,5,Demasiado hijos putA·$·& para mi gusto
+84,29,26,1,"No vuelvo, muy ruidoso"
+85,79,19,2,Excelente los dueños maravillosos
+86,162,45,2,El mejor sushi de la ciudad
+87,86,32,5,"Una puta mierda, no he ido pero son uno cerdos y el sitio da por cuulo"
+88,120,46,1,Excelente los dueños maravillosos
+89,58,6,1,Excelente los dueños maravillosos
+90,69,18,2,Servicio lento pero comida excelente
+91,90,4,4,"Trato nefasto, deberian cerrar"
+92,171,10,4,Excelente los dueños maravillosos
+93,39,37,4,Precio/calidad correcto
+94,80,43,4,09986 ~# 
+95,180,47,1,"Una puta mierda, no he ido pero son uno cerdos y el sitio da por cuulo"
+96,189,17,4,"No vuelvo, muy ruidoso"
+97,23,24,2,Precio/calidad correcto
+98,196,40,1,$&%&/$%/%/
+99,173,36,2,"Así, así, caro y LA comida no eS para tanto"
+100,51,49,3,El mejor sushi de la ciudad
+101,120,28,3,Excelente los dueños maravillosos
+102,49,12,1,"Una puta mierda, no he ido pero son uno cerdos y el sitio da por cuulo"
+103,120,23,4,09986 ~# 
+104,70,27,5,"No vuelvo, muy ruidoso"
+105,143,29,1,Excelente los dueños maravillosos
+106,151,13,4,Demasiado hijos putA·$·& para mi gusto
+107,24,2,3,¡Buenísimo!
+108,185,17,2,"No vuelvo, muy ruidoso"
+109,44,19,5,¡Buenísimo!
+110,160,17,4,Demasiado hijos putA·$·& para mi gusto
+111,80,27,5,"Así, así, caro y LA comida no eS para tanto"
+112,93,18,5,El mejor sushi de la ciudad
+113,43,39,5,Servicio lento pero comida excelente
+114,157,10,2,"No vuelvo, muy ruidoso"
+115,55,1,4,"Trato nefasto, deberian cerrar"
+116,179,23,5,"Una puta mierda, no he ido pero son uno cerdos y el sitio da por cuulo"
+117,54,44,4,Demasiado hijos putA·$·& para mi gusto
+118,4,26,2,"No vuelvo, muy ruidoso"
+119,122,11,3,Excelente los dueños maravillosos
+120,130,28,1,$&%&/$%/%/
+121,14,33,2,"Así, así, caro y LA comida no eS para tanto"
+122,170,32,2,Excelente los dueños maravillosos
+123,52,44,5,$&%&/$%/%/
+124,43,30,1,Precio/calidad correcto
+125,98,25,2,El mejor sushi de la ciudad
+126,20,24,3,Precio/calidad correcto
+127,149,33,3,"No vuelvo, muy ruidoso"
+128,7,45,1,"Una puta mierda, no he ido pero son uno cerdos y el sitio da por cuulo"
+129,65,48,4,09986 ~# 
+130,183,11,4,09986 ~# 
+131,88,15,1,El mejor sushi de la ciudad
+132,46,7,5,"Una puta mierda, no he ido pero son uno cerdos y el sitio da por cuulo"
+133,72,40,5,"Trato nefasto, deberian cerrar"
+134,53,23,3,"Así, así, caro y LA comida no eS para tanto"
+135,24,15,3,"Trato nefasto, deberian cerrar"
+136,134,14,5,"Así, así, caro y LA comida no eS para tanto"
+137,113,34,4,Demasiado hijos putA·$·& para mi gusto
+138,78,22,5,"No vuelvo, muy ruidoso"
+139,118,32,3,Precio/calidad correcto
+140,44,35,3,09986 ~# 
+141,198,12,2,$&%&/$%/%/
+142,3,20,5,Servicio lento pero comida excelente
+143,25,14,3,¡Buenísimo!
+144,51,1,4,Servicio lento pero comida excelente
+145,12,26,1,Precio/calidad correcto
+146,152,28,4,Excelente los dueños maravillosos
+147,104,31,5,Precio/calidad correcto
+148,73,8,3,Excelente los dueños maravillosos
+149,105,22,3,"Así, así, caro y LA comida no eS para tanto"
+150,135,2,4,"Trato nefasto, deberian cerrar"
+151,126,11,4,Servicio lento pero comida excelente
+152,44,41,4,"Así, así, caro y LA comida no eS para tanto"
+153,135,30,3,"Así, así, caro y LA comida no eS para tanto"
+154,54,41,2,"Trato nefasto, deberian cerrar"
+155,128,26,3,$&%&/$%/%/
+156,170,16,1,09986 ~# 
+157,112,21,5,El mejor sushi de la ciudad
+158,113,47,2,09986 ~# 
+159,22,18,4,¡Buenísimo!
+160,132,20,1,Excelente los dueños maravillosos
+161,44,21,5,"Una puta mierda, no he ido pero son uno cerdos y el sitio da por cuulo"
+162,28,1,1,Servicio lento pero comida excelente
+163,52,27,2,Excelente los dueños maravillosos
+164,45,34,1,09986 ~# 
+165,42,33,5,El mejor sushi de la ciudad
+166,120,21,3,Excelente los dueños maravillosos
+167,24,42,5,Demasiado hijos putA·$·& para mi gusto
+168,4,37,1,Servicio lento pero comida excelente
+169,103,34,3,El mejor sushi de la ciudad
+170,61,31,5,"Así, así, caro y LA comida no eS para tanto"
+171,58,7,5,Precio/calidad correcto
+172,64,21,1,$&%&/$%/%/
+173,150,40,1,¡Buenísimo!
+174,11,3,4,"Una puta mierda, no he ido pero son uno cerdos y el sitio da por cuulo"
+175,43,7,3,"Una puta mierda, no he ido pero son uno cerdos y el sitio da por cuulo"
+176,158,8,3,El mejor sushi de la ciudad
+177,77,23,2,09986 ~# 
+178,39,8,3,Precio/calidad correcto
+179,4,24,1,09986 ~# 
+180,95,47,4,Servicio lento pero comida excelente
+181,83,19,4,Excelente los dueños maravillosos
+182,130,42,3,El mejor sushi de la ciudad
+183,98,11,2,Excelente los dueños maravillosos
+184,4,28,3,09986 ~# 
+185,75,38,5,"Trato nefasto, deberian cerrar"
+186,87,49,1,"No vuelvo, muy ruidoso"
+187,108,10,1,Precio/calidad correcto
+188,29,13,1,Demasiado hijos putA·$·& para mi gusto
+189,44,29,2,Precio/calidad correcto
+190,145,40,2,09986 ~# 
+191,85,16,5,09986 ~# 
+192,160,47,4,¡Buenísimo!
+193,56,33,2,"Trato nefasto, deberian cerrar"
+194,69,3,5,Demasiado hijos putA·$·& para mi gusto
+195,102,19,2,$&%&/$%/%/
+196,189,48,3,¡Buenísimo!
+197,103,49,4,Servicio lento pero comida excelente
+198,148,36,4,Demasiado hijos putA·$·& para mi gusto
+199,36,49,5,El mejor sushi de la ciudad
+200,65,48,2,"No vuelvo, muy ruidoso"
+201,117,30,2,¡Buenísimo!
+202,144,23,1,"No vuelvo, muy ruidoso"
+203,123,2,4,"Trato nefasto, deberian cerrar"
+204,142,7,4,Servicio lento pero comida excelente
+205,120,37,4,Servicio lento pero comida excelente
+206,12,27,2,"Una puta mierda, no he ido pero son uno cerdos y el sitio da por cuulo"
+207,77,35,3,$&%&/$%/%/
+208,64,37,1,Servicio lento pero comida excelente
+209,98,3,2,09986 ~# 
+210,149,13,3,Precio/calidad correcto
+211,150,28,5,Precio/calidad correcto
+212,34,46,5,Excelente los dueños maravillosos
+213,196,16,3,$&%&/$%/%/
+214,139,31,2,09986 ~# 
+215,112,14,3,Precio/calidad correcto
+216,191,9,1,El mejor sushi de la ciudad
+217,56,7,2,09986 ~# 
+218,10,27,4,"Trato nefasto, deberian cerrar"
+219,147,14,3,"Así, así, caro y LA comida no eS para tanto"
+220,21,40,1,"No vuelvo, muy ruidoso"
+221,133,45,2,09986 ~# 
+222,18,6,3,"Una puta mierda, no he ido pero son uno cerdos y el sitio da por cuulo"
+223,12,18,3,"Una puta mierda, no he ido pero son uno cerdos y el sitio da por cuulo"
+224,40,18,2,"No vuelvo, muy ruidoso"
+225,13,4,4,"Una puta mierda, no he ido pero son uno cerdos y el sitio da por cuulo"
+226,140,38,5,El mejor sushi de la ciudad
+227,30,38,1,"Así, así, caro y LA comida no eS para tanto"
+228,144,40,1,Excelente los dueños maravillosos
+229,66,39,3,Excelente los dueños maravillosos
+230,14,3,5,Demasiado hijos putA·$·& para mi gusto
+231,125,16,5,$&%&/$%/%/
+232,186,49,3,09986 ~# 
+233,169,43,1,$&%&/$%/%/
+234,52,14,3,Servicio lento pero comida excelente
+235,58,20,2,"No vuelvo, muy ruidoso"
+236,148,33,1,"No vuelvo, muy ruidoso"
+237,119,36,2,Servicio lento pero comida excelente
+238,180,18,4,Demasiado hijos putA·$·& para mi gusto
+239,160,4,1,¡Buenísimo!
+240,154,19,1,"Trato nefasto, deberian cerrar"
+241,89,30,3,09986 ~# 
+242,168,19,3,"No vuelvo, muy ruidoso"
+243,168,10,3,"Trato nefasto, deberian cerrar"
+244,151,9,3,"No vuelvo, muy ruidoso"
+245,193,42,2,¡Buenísimo!
+246,59,18,4,Servicio lento pero comida excelente
+247,174,45,3,"Una puta mierda, no he ido pero son uno cerdos y el sitio da por cuulo"
+248,116,15,5,Excelente los dueños maravillosos
+249,70,41,1,¡Buenísimo!
+250,68,21,2,"No vuelvo, muy ruidoso"
+251,77,46,1,Servicio lento pero comida excelente
+252,90,38,4,¡Buenísimo!
+253,24,24,3,Demasiado hijos putA·$·& para mi gusto
+254,89,40,3,Servicio lento pero comida excelente
+255,32,22,3,09986 ~# 
+256,9,33,3,"No vuelvo, muy ruidoso"
+257,59,10,1,El mejor sushi de la ciudad
+258,175,8,1,Excelente los dueños maravillosos
+259,95,49,3,$&%&/$%/%/
+260,116,4,5,"No vuelvo, muy ruidoso"
+261,176,11,5,09986 ~# 
+262,59,28,5,Precio/calidad correcto
+263,170,28,1,"Una puta mierda, no he ido pero son uno cerdos y el sitio da por cuulo"
+264,16,14,5,"Trato nefasto, deberian cerrar"
+265,23,1,1,"Trato nefasto, deberian cerrar"
+266,3,17,4,$&%&/$%/%/
+267,138,39,2,"No vuelvo, muy ruidoso"
+268,39,43,5,$&%&/$%/%/
+269,187,28,5,"Así, así, caro y LA comida no eS para tanto"
+270,87,24,2,"No vuelvo, muy ruidoso"
+271,109,20,5,Servicio lento pero comida excelente
+272,139,24,2,Servicio lento pero comida excelente
+273,86,8,3,Excelente los dueños maravillosos
+274,41,45,2,"Así, así, caro y LA comida no eS para tanto"
+275,192,28,5,Demasiado hijos putA·$·& para mi gusto
+276,151,27,3,"Así, así, caro y LA comida no eS para tanto"
+277,185,11,5,"Así, así, caro y LA comida no eS para tanto"
+278,92,48,2,$&%&/$%/%/
+279,23,41,2,"Una puta mierda, no he ido pero son uno cerdos y el sitio da por cuulo"
+280,171,21,2,¡Buenísimo!
+281,23,9,5,Excelente los dueños maravillosos
+282,56,17,1,Excelente los dueños maravillosos
+283,27,22,2,Excelente los dueños maravillosos
+284,198,19,4,Servicio lento pero comida excelente
+285,162,34,4,¡Buenísimo!
+286,160,33,4,"Así, así, caro y LA comida no eS para tanto"
+287,26,1,2,"Una puta mierda, no he ido pero son uno cerdos y el sitio da por cuulo"
+288,170,25,3,Demasiado hijos putA·$·& para mi gusto
+289,80,36,5,Servicio lento pero comida excelente
+290,26,16,3,"No vuelvo, muy ruidoso"
+291,2,32,1,"No vuelvo, muy ruidoso"
+292,178,29,3,"No vuelvo, muy ruidoso"
+293,167,9,3,09986 ~# 
+294,103,43,1,$&%&/$%/%/
+295,7,45,3,Precio/calidad correcto
+296,193,21,4,"Así, así, caro y LA comida no eS para tanto"
+297,184,43,5,Precio/calidad correcto
+298,191,20,4,El mejor sushi de la ciudad
+299,74,22,4,$&%&/$%/%/
+300,17,45,4,"No vuelvo, muy ruidoso"
+301,160,20,4,Servicio lento pero comida excelente
+302,174,40,2,$&%&/$%/%/
+303,191,8,2,09986 ~# 
+304,127,6,5,Servicio lento pero comida excelente
+305,177,36,4,¡Buenísimo!
+306,16,13,5,Excelente los dueños maravillosos
+307,9,10,5,09986 ~# 
+308,112,14,5,¡Buenísimo!
+309,68,46,4,Servicio lento pero comida excelente
+310,83,25,3,"No vuelvo, muy ruidoso"
+311,186,18,2,Precio/calidad correcto
+312,79,18,5,"Así, así, caro y LA comida no eS para tanto"
+313,125,15,3,$&%&/$%/%/
+314,184,14,2,$&%&/$%/%/
+315,31,37,4,"No vuelvo, muy ruidoso"
+316,141,7,5,"Así, así, caro y LA comida no eS para tanto"
+317,183,32,2,¡Buenísimo!
+318,30,7,1,Precio/calidad correcto
+319,49,37,3,"Así, así, caro y LA comida no eS para tanto"
+320,179,20,5,¡Buenísimo!
+321,29,22,3,"Así, así, caro y LA comida no eS para tanto"
+322,17,19,1,El mejor sushi de la ciudad
+323,189,47,1,$&%&/$%/%/
+324,87,19,2,El mejor sushi de la ciudad
+325,146,16,2,"Así, así, caro y LA comida no eS para tanto"
+326,132,15,5,"Una puta mierda, no he ido pero son uno cerdos y el sitio da por cuulo"
+327,122,12,3,"Una puta mierda, no he ido pero son uno cerdos y el sitio da por cuulo"
+328,180,19,3,09986 ~# 
+329,145,34,1,Excelente los dueños maravillosos
+330,91,20,1,"Una puta mierda, no he ido pero son uno cerdos y el sitio da por cuulo"
+331,33,38,4,$&%&/$%/%/
+332,92,22,5,Precio/calidad correcto
+333,129,46,1,"No vuelvo, muy ruidoso"
+334,156,28,5,El mejor sushi de la ciudad
+335,134,37,4,"No vuelvo, muy ruidoso"
+336,45,13,3,¡Buenísimo!
+337,58,22,3,"Trato nefasto, deberian cerrar"
+338,7,4,4,"Una puta mierda, no he ido pero son uno cerdos y el sitio da por cuulo"
+339,164,38,5,09986 ~# 
+340,112,36,2,¡Buenísimo!
+341,130,7,4,"Una puta mierda, no he ido pero son uno cerdos y el sitio da por cuulo"
+342,41,40,4,Demasiado hijos putA·$·& para mi gusto
+343,136,15,4,¡Buenísimo!
+344,73,31,3,¡Buenísimo!
+345,178,15,2,"Trato nefasto, deberian cerrar"
+346,119,16,1,$&%&/$%/%/
+347,19,16,3,09986 ~# 
+348,197,6,5,09986 ~# 
+349,95,29,3,Precio/calidad correcto
+350,149,16,5,¡Buenísimo!
+351,136,6,4,09986 ~# 
+352,87,29,3,Servicio lento pero comida excelente
+353,101,5,1,Precio/calidad correcto
+354,43,6,1,Servicio lento pero comida excelente
+355,50,3,3,"Trato nefasto, deberian cerrar"
+356,50,33,5,Servicio lento pero comida excelente
+357,86,26,1,Excelente los dueños maravillosos
+358,47,11,2,"No vuelvo, muy ruidoso"
+359,79,40,3,"Así, así, caro y LA comida no eS para tanto"
+360,197,8,3,Servicio lento pero comida excelente
+361,42,7,5,"Trato nefasto, deberian cerrar"
+362,128,48,2,"No vuelvo, muy ruidoso"
+363,13,2,2,"Trato nefasto, deberian cerrar"
+364,175,33,2,"Trato nefasto, deberian cerrar"
+365,41,44,1,¡Buenísimo!
+366,57,8,1,"Trato nefasto, deberian cerrar"
+367,91,32,3,Servicio lento pero comida excelente
+368,134,40,5,"Así, así, caro y LA comida no eS para tanto"
+369,147,26,2,Excelente los dueños maravillosos
+370,147,6,1,"Trato nefasto, deberian cerrar"
+371,76,31,3,"Trato nefasto, deberian cerrar"
+372,133,35,4,09986 ~# 
+373,42,26,4,Demasiado hijos putA·$·& para mi gusto
+374,70,13,3,El mejor sushi de la ciudad
+375,142,39,5,"No vuelvo, muy ruidoso"
+376,126,23,4,Excelente los dueños maravillosos
+377,96,42,2,"Una puta mierda, no he ido pero son uno cerdos y el sitio da por cuulo"
+378,161,33,4,Demasiado hijos putA·$·& para mi gusto
+379,174,15,1,"No vuelvo, muy ruidoso"
+380,171,48,4,El mejor sushi de la ciudad
+381,122,4,3,"Así, así, caro y LA comida no eS para tanto"
+382,144,38,1,Precio/calidad correcto
+383,17,43,2,Excelente los dueños maravillosos
+384,51,4,3,Excelente los dueños maravillosos
+385,32,36,3,El mejor sushi de la ciudad
+386,179,6,5,$&%&/$%/%/
+387,122,20,1,Demasiado hijos putA·$·& para mi gusto
+388,85,43,2,Servicio lento pero comida excelente
+389,92,35,2,¡Buenísimo!
+390,55,23,3,$&%&/$%/%/
+391,43,20,3,"Trato nefasto, deberian cerrar"
+392,29,11,2,"Trato nefasto, deberian cerrar"
+393,124,38,3,Servicio lento pero comida excelente
+394,154,28,2,Servicio lento pero comida excelente
+395,41,3,5,09986 ~# 
+396,13,18,2,"No vuelvo, muy ruidoso"
+397,160,19,2,09986 ~# 
+398,53,6,4,El mejor sushi de la ciudad
+399,85,18,2,Precio/calidad correcto
+400,83,24,5,Demasiado hijos putA·$·& para mi gusto
+401,188,13,1,Servicio lento pero comida excelente
+402,156,2,2,"No vuelvo, muy ruidoso"
+403,87,33,3,Demasiado hijos putA·$·& para mi gusto
+404,98,45,3,El mejor sushi de la ciudad
+405,199,13,2,Precio/calidad correcto
+406,186,28,4,$&%&/$%/%/
+407,6,17,3,09986 ~# 
+408,45,25,5,"Una puta mierda, no he ido pero son uno cerdos y el sitio da por cuulo"
+409,132,46,3,El mejor sushi de la ciudad
+410,157,9,4,"Trato nefasto, deberian cerrar"
+411,106,13,4,Excelente los dueños maravillosos
+412,126,9,2,09986 ~# 
+413,1,26,4,¡Buenísimo!
+414,194,22,1,Excelente los dueños maravillosos
+415,70,39,4,09986 ~# 
+416,118,46,3,El mejor sushi de la ciudad
+417,183,16,1,Excelente los dueños maravillosos
+418,11,50,5,Servicio lento pero comida excelente
+419,5,38,5,Precio/calidad correcto
+420,30,24,5,El mejor sushi de la ciudad
+421,125,30,4,Servicio lento pero comida excelente
+422,34,7,3,Servicio lento pero comida excelente
+423,47,48,4,"Una puta mierda, no he ido pero son uno cerdos y el sitio da por cuulo"
+424,125,37,1,09986 ~# 
+425,6,43,1,Precio/calidad correcto
+426,162,39,5,El mejor sushi de la ciudad
+427,138,48,5,El mejor sushi de la ciudad
+428,150,50,4,"Trato nefasto, deberian cerrar"
+429,34,35,4,"No vuelvo, muy ruidoso"
+430,56,32,1,"Una puta mierda, no he ido pero son uno cerdos y el sitio da por cuulo"
+431,97,3,5,Demasiado hijos putA·$·& para mi gusto
+432,165,20,3,"No vuelvo, muy ruidoso"
+433,20,40,1,Excelente los dueños maravillosos
+434,100,19,2,Excelente los dueños maravillosos
+435,80,1,2,El mejor sushi de la ciudad
+436,175,26,1,09986 ~# 
+437,58,35,1,$&%&/$%/%/
+438,55,42,2,El mejor sushi de la ciudad
+439,161,7,3,¡Buenísimo!
+440,172,45,1,Servicio lento pero comida excelente
+441,89,45,1,Excelente los dueños maravillosos
+442,79,22,1,"Así, así, caro y LA comida no eS para tanto"
+443,16,30,3,El mejor sushi de la ciudad
+444,176,48,3,¡Buenísimo!
+445,39,2,5,¡Buenísimo!
+446,200,44,3,Demasiado hijos putA·$·& para mi gusto
+447,124,39,5,Precio/calidad correcto
+448,71,22,3,Excelente los dueños maravillosos
+449,37,34,5,El mejor sushi de la ciudad
+450,152,14,3,Precio/calidad correcto
+451,77,11,2,"Una puta mierda, no he ido pero son uno cerdos y el sitio da por cuulo"
+452,105,11,2,$&%&/$%/%/
+453,96,43,2,09986 ~# 
+454,1,23,1,"Una puta mierda, no he ido pero son uno cerdos y el sitio da por cuulo"
+455,158,12,4,"Así, así, caro y LA comida no eS para tanto"
+456,111,23,1,09986 ~# 
+457,87,34,3,¡Buenísimo!
+458,115,9,2,Servicio lento pero comida excelente
+459,117,10,3,Servicio lento pero comida excelente
+460,142,33,1,"Una puta mierda, no he ido pero son uno cerdos y el sitio da por cuulo"
+461,150,30,1,Precio/calidad correcto
+462,56,20,4,09986 ~# 
+463,78,8,5,¡Buenísimo!
+464,46,37,2,Demasiado hijos putA·$·& para mi gusto
+465,148,14,2,"Trato nefasto, deberian cerrar"
+466,199,41,4,09986 ~# 
+467,165,50,1,Precio/calidad correcto
+468,138,26,3,"Así, así, caro y LA comida no eS para tanto"
+469,184,26,1,Precio/calidad correcto
+470,108,41,1,¡Buenísimo!
+471,135,17,2,El mejor sushi de la ciudad
+472,169,42,3,Demasiado hijos putA·$·& para mi gusto
+473,88,38,4,¡Buenísimo!
+474,64,41,5,Demasiado hijos putA·$·& para mi gusto
+475,78,6,2,"No vuelvo, muy ruidoso"
+476,46,23,2,Excelente los dueños maravillosos
+477,166,23,3,"No vuelvo, muy ruidoso"
+478,122,36,3,Excelente los dueños maravillosos
+479,112,21,5,Servicio lento pero comida excelente
+480,36,22,2,Demasiado hijos putA·$·& para mi gusto
+481,37,40,4,09986 ~# 
+482,73,31,4,"Así, así, caro y LA comida no eS para tanto"
+483,150,47,1,"Trato nefasto, deberian cerrar"
+484,71,17,5,"Una puta mierda, no he ido pero son uno cerdos y el sitio da por cuulo"
+485,38,41,2,Precio/calidad correcto
+486,83,7,4,"No vuelvo, muy ruidoso"
+487,17,10,2,Precio/calidad correcto
+488,151,6,3,Precio/calidad correcto
+489,170,29,2,"Así, así, caro y LA comida no eS para tanto"
+490,64,47,3,¡Buenísimo!
+491,94,22,4,Precio/calidad correcto
+492,23,25,1,"Una puta mierda, no he ido pero son uno cerdos y el sitio da por cuulo"
+493,151,9,4,Demasiado hijos putA·$·& para mi gusto
+494,106,40,3,"Así, así, caro y LA comida no eS para tanto"
+495,122,7,3,Excelente los dueños maravillosos
+496,165,24,3,"Una puta mierda, no he ido pero son uno cerdos y el sitio da por cuulo"
+497,175,14,5,"No vuelvo, muy ruidoso"
+498,19,44,4,El mejor sushi de la ciudad
+499,176,26,4,Precio/calidad correcto
+500,151,5,3,"Una puta mierda, no he ido pero son uno cerdos y el sitio da por cuulo"
+501,138,45,1,Servicio lento pero comida excelente
+502,79,6,2,"Así, así, caro y LA comida no eS para tanto"
+503,98,36,2,¡Buenísimo!
+504,133,35,3,$&%&/$%/%/
+505,32,3,3,"No vuelvo, muy ruidoso"
+506,76,6,5,"No vuelvo, muy ruidoso"
+507,108,1,2,$&%&/$%/%/
+508,166,38,4,Demasiado hijos putA·$·& para mi gusto
+509,135,50,3,El mejor sushi de la ciudad
+510,150,45,3,"No vuelvo, muy ruidoso"
+511,150,39,1,"No vuelvo, muy ruidoso"
+512,99,40,3,¡Buenísimo!
+513,95,49,4,Excelente los dueños maravillosos
+514,49,49,4,"No vuelvo, muy ruidoso"
+515,78,26,1,"Así, así, caro y LA comida no eS para tanto"
+516,115,35,5,Demasiado hijos putA·$·& para mi gusto
+517,169,17,2,El mejor sushi de la ciudad
+518,52,43,1,Servicio lento pero comida excelente
+519,107,15,4,El mejor sushi de la ciudad
+520,97,23,2,Demasiado hijos putA·$·& para mi gusto
+521,53,32,4,Excelente los dueños maravillosos
+522,77,5,1,09986 ~# 
+523,17,13,3,"Así, así, caro y LA comida no eS para tanto"
+524,109,38,3,Excelente los dueños maravillosos
+525,62,19,2,09986 ~# 
+526,88,14,4,Demasiado hijos putA·$·& para mi gusto
+527,65,45,5,¡Buenísimo!
+528,39,5,1,Servicio lento pero comida excelente
+529,94,4,1,El mejor sushi de la ciudad
+530,187,47,2,Precio/calidad correcto
+531,155,29,2,"Trato nefasto, deberian cerrar"
+532,114,43,5,El mejor sushi de la ciudad
+533,27,8,4,¡Buenísimo!
+534,170,4,4,Servicio lento pero comida excelente
+535,60,13,3,"Trato nefasto, deberian cerrar"
+536,129,50,2,"Así, así, caro y LA comida no eS para tanto"
+537,68,10,4,Demasiado hijos putA·$·& para mi gusto
+538,43,2,2,"Una puta mierda, no he ido pero son uno cerdos y el sitio da por cuulo"
+539,187,24,5,Demasiado hijos putA·$·& para mi gusto
+540,101,14,4,"Así, así, caro y LA comida no eS para tanto"
+541,170,22,5,"Trato nefasto, deberian cerrar"
+542,25,34,2,09986 ~# 
+543,41,39,1,Servicio lento pero comida excelente
+544,113,45,1,"Así, así, caro y LA comida no eS para tanto"
+545,194,3,5,"Trato nefasto, deberian cerrar"
+546,39,36,5,"No vuelvo, muy ruidoso"
+547,52,47,3,El mejor sushi de la ciudad
+548,86,1,5,¡Buenísimo!
+549,159,43,1,"Una puta mierda, no he ido pero son uno cerdos y el sitio da por cuulo"
+550,190,48,1,"Así, así, caro y LA comida no eS para tanto"
+551,71,46,2,¡Buenísimo!
+552,137,39,5,09986 ~# 
+553,8,38,1,09986 ~# 
+554,151,40,3,Excelente los dueños maravillosos
+555,107,15,2,"Una puta mierda, no he ido pero son uno cerdos y el sitio da por cuulo"
+556,48,26,3,"Una puta mierda, no he ido pero son uno cerdos y el sitio da por cuulo"
+557,165,26,4,"Una puta mierda, no he ido pero son uno cerdos y el sitio da por cuulo"
+558,111,7,2,Excelente los dueños maravillosos
+559,100,46,5,"No vuelvo, muy ruidoso"
+560,118,34,3,Demasiado hijos putA·$·& para mi gusto
+561,125,33,2,"Así, así, caro y LA comida no eS para tanto"
+562,164,47,2,Servicio lento pero comida excelente
+563,35,1,4,Excelente los dueños maravillosos
+564,50,27,3,Demasiado hijos putA·$·& para mi gusto
+565,187,5,5,"Trato nefasto, deberian cerrar"
+566,133,24,1,Demasiado hijos putA·$·& para mi gusto
+567,67,49,3,Excelente los dueños maravillosos
+568,92,16,1,Servicio lento pero comida excelente
+569,7,38,4,"Una puta mierda, no he ido pero son uno cerdos y el sitio da por cuulo"
+570,53,5,2,El mejor sushi de la ciudad
+571,134,1,2,09986 ~# 
+572,184,22,2,El mejor sushi de la ciudad
+573,36,40,4,Excelente los dueños maravillosos
+574,88,38,3,"Así, así, caro y LA comida no eS para tanto"
+575,76,31,4,Demasiado hijos putA·$·& para mi gusto
+576,100,31,5,"Así, así, caro y LA comida no eS para tanto"
+577,79,45,4,"Una puta mierda, no he ido pero son uno cerdos y el sitio da por cuulo"
+578,170,18,3,El mejor sushi de la ciudad
+579,96,49,1,09986 ~# 
+580,79,19,5,Precio/calidad correcto
+581,10,15,4,"No vuelvo, muy ruidoso"
+582,56,27,1,"Así, así, caro y LA comida no eS para tanto"
+583,57,10,5,Excelente los dueños maravillosos
+584,138,44,3,"Así, así, caro y LA comida no eS para tanto"
+585,191,46,3,Excelente los dueños maravillosos
+586,199,18,3,"Una puta mierda, no he ido pero son uno cerdos y el sitio da por cuulo"
+587,179,10,2,Precio/calidad correcto
+588,121,6,4,"Trato nefasto, deberian cerrar"
+589,69,39,3,"Trato nefasto, deberian cerrar"
+590,149,17,3,El mejor sushi de la ciudad
+591,46,22,4,"Así, así, caro y LA comida no eS para tanto"
+592,35,42,2,09986 ~# 
+593,77,19,2,¡Buenísimo!
+594,122,21,4,El mejor sushi de la ciudad
+595,14,20,1,El mejor sushi de la ciudad
+596,42,36,3,"No vuelvo, muy ruidoso"
+597,96,34,2,"Así, así, caro y LA comida no eS para tanto"
+598,46,31,1,"Trato nefasto, deberian cerrar"
+599,55,4,5,"Trato nefasto, deberian cerrar"
+600,61,48,4,Excelente los dueños maravillosos
+601,79,31,2,Demasiado hijos putA·$·& para mi gusto
+602,153,50,1,$&%&/$%/%/
+603,175,48,5,$&%&/$%/%/
+604,113,12,3,$&%&/$%/%/
+605,58,39,4,Excelente los dueños maravillosos
+606,193,6,1,"No vuelvo, muy ruidoso"
+607,116,7,1,09986 ~# 
+608,48,50,4,$&%&/$%/%/
+609,175,11,3,"Una puta mierda, no he ido pero son uno cerdos y el sitio da por cuulo"
+610,56,23,1,Precio/calidad correcto
+611,38,6,3,Excelente los dueños maravillosos
+612,98,22,1,Servicio lento pero comida excelente
+613,150,34,5,El mejor sushi de la ciudad
+614,169,8,2,09986 ~# 
+615,113,29,5,Excelente los dueños maravillosos
+616,110,26,5,Excelente los dueños maravillosos
+617,190,33,4,"Trato nefasto, deberian cerrar"
+618,118,23,2,Demasiado hijos putA·$·& para mi gusto
+619,180,21,3,Servicio lento pero comida excelente
+620,57,37,2,"No vuelvo, muy ruidoso"
+621,14,49,5,Excelente los dueños maravillosos
+622,169,30,1,El mejor sushi de la ciudad
+623,27,13,5,"No vuelvo, muy ruidoso"
+624,109,19,4,"No vuelvo, muy ruidoso"
+625,67,5,2,Precio/calidad correcto
+626,81,43,2,¡Buenísimo!
+627,83,46,4,¡Buenísimo!
+628,199,4,4,"No vuelvo, muy ruidoso"
+629,90,36,4,$&%&/$%/%/
+630,95,33,3,"Trato nefasto, deberian cerrar"
+631,36,29,3,Servicio lento pero comida excelente
+632,9,41,3,$&%&/$%/%/
+633,27,17,5,"Así, así, caro y LA comida no eS para tanto"
+634,196,15,3,Excelente los dueños maravillosos
+635,137,33,1,"Trato nefasto, deberian cerrar"
+636,23,25,2,"No vuelvo, muy ruidoso"
+637,176,26,4,"Una puta mierda, no he ido pero son uno cerdos y el sitio da por cuulo"
+638,182,32,3,"Una puta mierda, no he ido pero son uno cerdos y el sitio da por cuulo"
+639,163,32,2,"Así, así, caro y LA comida no eS para tanto"
+640,84,46,5,$&%&/$%/%/
+641,170,25,3,"Así, así, caro y LA comida no eS para tanto"
+642,49,9,2,"No vuelvo, muy ruidoso"
+643,45,16,5,Precio/calidad correcto
+644,142,7,5,Excelente los dueños maravillosos
+645,7,43,5,"Una puta mierda, no he ido pero son uno cerdos y el sitio da por cuulo"
+646,15,37,1,¡Buenísimo!
+647,24,19,1,Servicio lento pero comida excelente
+648,62,39,2,"Así, así, caro y LA comida no eS para tanto"
+649,52,31,1,"No vuelvo, muy ruidoso"
+650,189,34,1,Precio/calidad correcto
+651,101,2,2,"Una puta mierda, no he ido pero son uno cerdos y el sitio da por cuulo"
+652,27,47,4,09986 ~# 
+653,156,46,3,$&%&/$%/%/
+654,138,49,3,¡Buenísimo!
+655,167,38,4,09986 ~# 
+656,75,5,2,"No vuelvo, muy ruidoso"
+657,122,16,1,Servicio lento pero comida excelente
+658,152,21,2,$&%&/$%/%/
+659,118,8,4,Precio/calidad correcto
+660,78,48,1,$&%&/$%/%/
+661,81,44,5,Excelente los dueños maravillosos
+662,126,18,1,09986 ~# 
+663,161,26,1,09986 ~# 
+664,135,34,4,"Trato nefasto, deberian cerrar"
+665,50,32,2,Demasiado hijos putA·$·& para mi gusto
+666,45,10,5,$&%&/$%/%/
+667,12,40,4,"Trato nefasto, deberian cerrar"
+668,127,14,5,"Una puta mierda, no he ido pero son uno cerdos y el sitio da por cuulo"
+669,35,36,3,09986 ~# 
+670,194,2,4,"Así, así, caro y LA comida no eS para tanto"
+671,190,3,3,09986 ~# 
+672,120,30,2,$&%&/$%/%/
+673,10,44,2,Precio/calidad correcto
+674,93,2,2,"Una puta mierda, no he ido pero son uno cerdos y el sitio da por cuulo"
+675,17,48,1,$&%&/$%/%/
+676,142,8,1,$&%&/$%/%/
+677,56,8,5,El mejor sushi de la ciudad
+678,71,3,4,"No vuelvo, muy ruidoso"
+679,43,23,1,Excelente los dueños maravillosos
+680,96,7,4,El mejor sushi de la ciudad
+681,185,15,5,09986 ~# 
+682,187,12,2,$&%&/$%/%/
+683,96,45,5,Excelente los dueños maravillosos
+684,194,30,3,"No vuelvo, muy ruidoso"
+685,193,27,3,El mejor sushi de la ciudad
+686,84,35,2,$&%&/$%/%/
+687,78,18,5,Servicio lento pero comida excelente
+688,93,18,1,"Una puta mierda, no he ido pero son uno cerdos y el sitio da por cuulo"
+689,70,13,5,El mejor sushi de la ciudad
+690,87,44,1,"No vuelvo, muy ruidoso"
+691,82,37,1,El mejor sushi de la ciudad
+692,184,42,3,Demasiado hijos putA·$·& para mi gusto
+693,78,7,3,Demasiado hijos putA·$·& para mi gusto
+694,134,37,4,09986 ~# 
+695,80,9,3,Servicio lento pero comida excelente
+696,111,49,3,Precio/calidad correcto
+697,194,49,4,Precio/calidad correcto
+698,59,20,5,"No vuelvo, muy ruidoso"
+699,199,44,3,"Así, así, caro y LA comida no eS para tanto"
+700,84,47,4,"Una puta mierda, no he ido pero son uno cerdos y el sitio da por cuulo"
+701,29,14,5,Precio/calidad correcto
+702,5,2,1,"Una puta mierda, no he ido pero son uno cerdos y el sitio da por cuulo"
+703,38,2,2,"No vuelvo, muy ruidoso"
+704,48,30,3,Servicio lento pero comida excelente
+705,106,43,1,"Así, así, caro y LA comida no eS para tanto"
+706,178,44,4,"Así, así, caro y LA comida no eS para tanto"
+707,60,11,1,Demasiado hijos putA·$·& para mi gusto
+708,158,12,5,09986 ~# 
+709,81,9,5,$&%&/$%/%/
+710,45,27,5,"Así, así, caro y LA comida no eS para tanto"
+711,123,47,5,¡Buenísimo!
+712,79,7,5,"No vuelvo, muy ruidoso"
+713,30,13,4,"Así, así, caro y LA comida no eS para tanto"
+714,53,1,3,"Así, así, caro y LA comida no eS para tanto"
+715,95,45,2,"Trato nefasto, deberian cerrar"
+716,37,10,3,"Una puta mierda, no he ido pero son uno cerdos y el sitio da por cuulo"
+717,60,5,3,¡Buenísimo!
+718,94,21,5,"Trato nefasto, deberian cerrar"
+719,46,41,1,"Así, así, caro y LA comida no eS para tanto"
+720,6,43,2,$&%&/$%/%/
+721,171,29,3,¡Buenísimo!
+722,87,41,5,Demasiado hijos putA·$·& para mi gusto
+723,43,42,5,El mejor sushi de la ciudad
+724,131,7,1,"Así, así, caro y LA comida no eS para tanto"
+725,72,46,5,"Así, así, caro y LA comida no eS para tanto"
+726,189,26,3,09986 ~# 
+727,99,3,1,"Una puta mierda, no he ido pero son uno cerdos y el sitio da por cuulo"
+728,3,21,1,"Una puta mierda, no he ido pero son uno cerdos y el sitio da por cuulo"
+729,3,31,5,09986 ~# 
+730,168,40,1,"Trato nefasto, deberian cerrar"
+731,125,36,5,"No vuelvo, muy ruidoso"
+732,176,25,5,$&%&/$%/%/
+733,162,38,4,"No vuelvo, muy ruidoso"
+734,29,16,5,El mejor sushi de la ciudad
+735,102,21,1,"Así, así, caro y LA comida no eS para tanto"
+736,95,22,2,$&%&/$%/%/
+737,61,45,1,¡Buenísimo!
+738,92,36,5,"Así, así, caro y LA comida no eS para tanto"
+739,69,40,5,Demasiado hijos putA·$·& para mi gusto
+740,40,13,1,Excelente los dueños maravillosos
+741,152,23,1,Excelente los dueños maravillosos
+742,102,50,4,"Así, así, caro y LA comida no eS para tanto"
+743,200,47,2,"Una puta mierda, no he ido pero son uno cerdos y el sitio da por cuulo"
+744,101,24,1,Precio/calidad correcto
+745,200,43,2,$&%&/$%/%/
+746,140,48,4,Precio/calidad correcto
+747,30,16,5,"Trato nefasto, deberian cerrar"
+748,76,41,1,09986 ~# 
+749,45,9,5,¡Buenísimo!
+750,47,35,5,"Así, así, caro y LA comida no eS para tanto"
+751,21,10,5,"Trato nefasto, deberian cerrar"
+752,102,29,2,"Trato nefasto, deberian cerrar"
+753,179,20,4,Excelente los dueños maravillosos
+754,114,15,1,¡Buenísimo!
+755,199,7,3,Servicio lento pero comida excelente
+756,106,20,4,Excelente los dueños maravillosos
+757,195,41,4,"Así, así, caro y LA comida no eS para tanto"
+758,156,41,2,Precio/calidad correcto
+759,54,38,5,$&%&/$%/%/
+760,182,46,1,Precio/calidad correcto
+761,24,37,2,¡Buenísimo!
+762,116,50,5,El mejor sushi de la ciudad
+763,111,40,4,"Así, así, caro y LA comida no eS para tanto"
+764,16,48,3,Demasiado hijos putA·$·& para mi gusto
+765,99,27,4,"No vuelvo, muy ruidoso"
+766,113,33,1,$&%&/$%/%/
+767,178,17,2,Demasiado hijos putA·$·& para mi gusto
+768,54,14,5,Demasiado hijos putA·$·& para mi gusto
+769,171,22,3,"Así, así, caro y LA comida no eS para tanto"
+770,92,42,5,El mejor sushi de la ciudad
+771,77,8,1,"Así, así, caro y LA comida no eS para tanto"
+772,160,46,3,El mejor sushi de la ciudad
+773,117,30,2,Servicio lento pero comida excelente
+774,111,9,1,$&%&/$%/%/
+775,63,27,5,¡Buenísimo!
+776,73,23,5,"Una puta mierda, no he ido pero son uno cerdos y el sitio da por cuulo"
+777,193,4,3,09986 ~# 
+778,199,33,4,¡Buenísimo!
+779,31,48,2,Demasiado hijos putA·$·& para mi gusto
+780,93,9,1,"No vuelvo, muy ruidoso"
+781,175,1,2,Excelente los dueños maravillosos
+782,173,29,5,Servicio lento pero comida excelente
+783,39,31,5,Excelente los dueños maravillosos
+784,93,50,4,¡Buenísimo!
+785,7,46,5,¡Buenísimo!
+786,128,30,4,"No vuelvo, muy ruidoso"
+787,136,45,4,"No vuelvo, muy ruidoso"
+788,79,36,5,¡Buenísimo!
+789,118,22,5,"Trato nefasto, deberian cerrar"
+790,19,36,3,Precio/calidad correcto
+791,1,16,1,"No vuelvo, muy ruidoso"
+792,189,17,5,Precio/calidad correcto
+793,83,13,1,$&%&/$%/%/
+794,76,40,1,Excelente los dueños maravillosos
+795,163,39,5,Servicio lento pero comida excelente
+796,86,30,1,"Trato nefasto, deberian cerrar"
+797,151,31,3,"No vuelvo, muy ruidoso"
+798,44,29,1,$&%&/$%/%/
+799,24,26,4,"Una puta mierda, no he ido pero son uno cerdos y el sitio da por cuulo"
+800,47,22,3,El mejor sushi de la ciudad
+801,56,32,5,Demasiado hijos putA·$·& para mi gusto
+802,3,36,2,Precio/calidad correcto
+803,81,17,3,"Trato nefasto, deberian cerrar"
+804,93,24,2,"Trato nefasto, deberian cerrar"
+805,60,11,2,"Una puta mierda, no he ido pero son uno cerdos y el sitio da por cuulo"
+806,21,45,1,"Una puta mierda, no he ido pero son uno cerdos y el sitio da por cuulo"
+807,196,10,5,Servicio lento pero comida excelente
+808,27,33,4,Precio/calidad correcto
+809,89,5,3,El mejor sushi de la ciudad
+810,5,14,3,Servicio lento pero comida excelente
+811,20,43,5,"Trato nefasto, deberian cerrar"
+812,109,44,4,¡Buenísimo!
+813,110,49,1,El mejor sushi de la ciudad
+814,80,1,5,"Trato nefasto, deberian cerrar"
+815,111,12,4,Excelente los dueños maravillosos
+816,112,4,5,"Así, así, caro y LA comida no eS para tanto"
+817,97,19,4,"Así, así, caro y LA comida no eS para tanto"
+818,191,24,3,"Una puta mierda, no he ido pero son uno cerdos y el sitio da por cuulo"
+819,12,3,1,"No vuelvo, muy ruidoso"
+820,156,17,1,Servicio lento pero comida excelente
+821,94,18,4,"Trato nefasto, deberian cerrar"
+822,186,28,2,"Una puta mierda, no he ido pero son uno cerdos y el sitio da por cuulo"
+823,101,23,5,Excelente los dueños maravillosos
+824,114,42,2,"No vuelvo, muy ruidoso"
+825,147,25,2,Servicio lento pero comida excelente
+826,96,17,3,"Una puta mierda, no he ido pero son uno cerdos y el sitio da por cuulo"
+827,90,11,4,El mejor sushi de la ciudad
+828,16,46,4,Excelente los dueños maravillosos
+829,181,10,3,"Trato nefasto, deberian cerrar"
+830,29,19,3,Servicio lento pero comida excelente
+831,54,6,4,"Trato nefasto, deberian cerrar"
+832,184,34,3,¡Buenísimo!
+833,122,35,5,Demasiado hijos putA·$·& para mi gusto
+834,192,22,2,09986 ~# 
+835,82,15,2,"Así, así, caro y LA comida no eS para tanto"
+836,89,46,5,Excelente los dueños maravillosos
+837,192,15,3,Demasiado hijos putA·$·& para mi gusto
+838,24,25,2,Servicio lento pero comida excelente
+839,131,38,4,09986 ~# 
+840,72,41,5,Excelente los dueños maravillosos
+841,31,18,2,Demasiado hijos putA·$·& para mi gusto
+842,122,42,3,¡Buenísimo!
+843,120,26,4,"Así, así, caro y LA comida no eS para tanto"
+844,77,4,2,$&%&/$%/%/
+845,111,34,3,Servicio lento pero comida excelente
+846,114,9,2,"Así, así, caro y LA comida no eS para tanto"
+847,162,3,4,Demasiado hijos putA·$·& para mi gusto
+848,99,24,4,Excelente los dueños maravillosos
+849,192,16,3,$&%&/$%/%/
+850,117,19,5,"Una puta mierda, no he ido pero son uno cerdos y el sitio da por cuulo"
+851,82,8,1,Precio/calidad correcto
+852,175,1,3,"Así, así, caro y LA comida no eS para tanto"
+853,193,19,1,Precio/calidad correcto
+854,70,43,2,"Una puta mierda, no he ido pero son uno cerdos y el sitio da por cuulo"
+855,73,35,1,09986 ~# 
+856,92,45,5,Excelente los dueños maravillosos
+857,46,25,4,El mejor sushi de la ciudad
+858,38,3,1,"Trato nefasto, deberian cerrar"
+859,97,45,4,09986 ~# 
+860,65,38,5,$&%&/$%/%/
+861,142,4,4,$&%&/$%/%/
+862,150,37,3,"Así, así, caro y LA comida no eS para tanto"
+863,85,11,1,"Una puta mierda, no he ido pero son uno cerdos y el sitio da por cuulo"
+864,15,33,5,"Trato nefasto, deberian cerrar"
+865,164,46,4,El mejor sushi de la ciudad
+866,33,23,5,Demasiado hijos putA·$·& para mi gusto
+867,41,40,2,"No vuelvo, muy ruidoso"
+868,38,24,3,Servicio lento pero comida excelente
+869,150,12,4,El mejor sushi de la ciudad
+870,56,4,2,$&%&/$%/%/
+871,169,8,5,"No vuelvo, muy ruidoso"
+872,97,40,2,$&%&/$%/%/
+873,2,8,2,"Trato nefasto, deberian cerrar"
+874,104,38,3,"Trato nefasto, deberian cerrar"
+875,84,29,3,Excelente los dueños maravillosos
+876,66,22,5,"Así, así, caro y LA comida no eS para tanto"
+877,140,42,1,Demasiado hijos putA·$·& para mi gusto
+878,27,38,1,¡Buenísimo!
+879,94,23,1,$&%&/$%/%/
+880,101,41,3,Demasiado hijos putA·$·& para mi gusto
+881,53,48,1,Precio/calidad correcto
+882,17,9,3,$&%&/$%/%/
+883,150,8,4,"No vuelvo, muy ruidoso"
+884,103,7,1,Demasiado hijos putA·$·& para mi gusto
+885,145,4,3,El mejor sushi de la ciudad
+886,80,31,5,Demasiado hijos putA·$·& para mi gusto
+887,109,18,3,El mejor sushi de la ciudad
+888,77,4,3,"Trato nefasto, deberian cerrar"
+889,146,38,5,"Una puta mierda, no he ido pero son uno cerdos y el sitio da por cuulo"
+890,196,10,5,El mejor sushi de la ciudad
+891,54,23,5,09986 ~# 
+892,110,22,3,¡Buenísimo!
+893,120,9,4,09986 ~# 
+894,87,44,2,"No vuelvo, muy ruidoso"
+895,147,41,2,Servicio lento pero comida excelente
+896,144,6,3,"No vuelvo, muy ruidoso"
+897,78,3,4,"Una puta mierda, no he ido pero son uno cerdos y el sitio da por cuulo"
+898,117,26,4,"Así, así, caro y LA comida no eS para tanto"
+899,16,3,5,$&%&/$%/%/
+900,170,28,1,09986 ~# 

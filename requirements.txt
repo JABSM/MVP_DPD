@@ -1,0 +1,11 @@
+# Python ≥ 3.10
+argparse
+pathlib
+typing
+pandas
+numpy
+#pydbgen>=1.0.5 # anualdo por problemas
+faker
+surprise
+wordcloud 
+streamlit 

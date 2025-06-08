@@ -1,0 +1,901 @@
+review_id,user_id,restaurant_id,rating,review_text,is_toxic
+1,125,28,4,excelente los dueños maravillosos,False
+2,192,36,2,servicio lento pero comida excelente,False
+3,122,46,2,buenísimo,False
+4,91,23,2,una p*** m***** no he ido pero son uno cerdos y el sitio da por cuulo,True
+5,186,33,2,el mejor sushi de la ciudad,False
+6,140,22,4,no vuelvo muy ruidoso,False
+7,58,18,1,no vuelvo muy ruidoso,False
+8,61,24,2,precio calidad correcto,False
+9,148,18,3,una p*** m***** no he ido pero son uno cerdos y el sitio da por cuulo,True
+10,198,44,1,servicio lento pero comida excelente,False
+11,143,25,2,excelente los dueños maravillosos,False
+12,49,26,5,una p*** m***** no he ido pero son uno cerdos y el sitio da por cuulo,True
+13,85,20,5,09986,False
+14,167,29,3,servicio lento pero comida excelente,False
+15,96,40,4,trato nefasto deberian cerrar,False
+16,9,33,2,así así caro y la comida no es para tanto,False
+17,87,7,3,buenísimo,False
+18,84,34,3,buenísimo,False
+19,89,48,3,servicio lento pero comida excelente,False
+20,3,23,4,no vuelvo muy ruidoso,False
+21,194,42,2,no vuelvo muy ruidoso,False
+22,186,17,3,09986,False
+23,117,48,3,trato nefasto deberian cerrar,False
+24,5,43,4,buenísimo,False
+25,149,8,3,09986,False
+26,152,1,1,no vuelvo muy ruidoso,False
+27,43,21,2,una p*** m***** no he ido pero son uno cerdos y el sitio da por cuulo,True
+28,56,17,4,excelente los dueños maravillosos,False
+29,140,25,2,una p*** m***** no he ido pero son uno cerdos y el sitio da por cuulo,True
+30,4,16,4,09986,False
+31,111,39,2,así así caro y la comida no es para tanto,False
+32,93,2,5,no vuelvo muy ruidoso,False
+33,156,47,2,,False
+34,34,16,2,trato nefasto deberian cerrar,False
+35,186,28,4,el mejor sushi de la ciudad,False
+36,147,16,1,buenísimo,False
+37,10,39,1,precio calidad correcto,False
+38,85,7,1,una p*** m***** no he ido pero son uno cerdos y el sitio da por cuulo,True
+39,184,36,2,así así caro y la comida no es para tanto,False
+40,74,41,5,demasiado hijos p*** para mi gusto,True
+41,106,10,4,el mejor sushi de la ciudad,False
+42,109,3,2,precio calidad correcto,False
+43,18,10,5,no vuelvo muy ruidoso,False
+44,104,14,5,demasiado hijos p*** para mi gusto,True
+45,113,6,5,servicio lento pero comida excelente,False
+46,167,30,1,servicio lento pero comida excelente,False
+47,135,17,2,así así caro y la comida no es para tanto,False
+48,38,35,3,servicio lento pero comida excelente,False
+49,20,24,1,demasiado hijos p*** para mi gusto,True
+50,34,23,2,demasiado hijos p*** para mi gusto,True
+51,140,14,3,trato nefasto deberian cerrar,False
+52,56,12,2,el mejor sushi de la ciudad,False
+53,149,41,2,buenísimo,False
+54,125,17,2,una p*** m***** no he ido pero son uno cerdos y el sitio da por cuulo,True
+55,140,44,5,,False
+56,172,24,3,09986,False
+57,44,30,1,servicio lento pero comida excelente,False
+58,5,12,3,así así caro y la comida no es para tanto,False
+59,47,25,5,servicio lento pero comida excelente,False
+60,69,18,5,09986,False
+61,36,19,4,el mejor sushi de la ciudad,False
+62,127,35,3,excelente los dueños maravillosos,False
+63,58,6,4,trato nefasto deberian cerrar,False
+64,57,48,1,demasiado hijos p*** para mi gusto,True
+65,147,18,1,trato nefasto deberian cerrar,False
+66,198,35,3,no vuelvo muy ruidoso,False
+67,171,12,5,una p*** m***** no he ido pero son uno cerdos y el sitio da por cuulo,True
+68,126,28,3,servicio lento pero comida excelente,False
+69,178,31,1,buenísimo,False
+70,35,28,5,excelente los dueños maravillosos,False
+71,123,11,5,no vuelvo muy ruidoso,False
+72,6,26,2,el mejor sushi de la ciudad,False
+73,143,44,2,servicio lento pero comida excelente,False
+74,18,15,2,no vuelvo muy ruidoso,False
+75,25,37,2,servicio lento pero comida excelente,False
+76,46,49,4,así así caro y la comida no es para tanto,False
+77,91,44,5,el mejor sushi de la ciudad,False
+78,63,25,4,,False
+79,134,20,1,excelente los dueños maravillosos,False
+80,198,19,5,demasiado hijos p*** para mi gusto,True
+81,132,35,2,precio calidad correcto,False
+82,43,37,1,demasiado hijos p*** para mi gusto,True
+83,133,28,5,demasiado hijos p*** para mi gusto,True
+84,29,26,1,no vuelvo muy ruidoso,False
+85,79,19,2,excelente los dueños maravillosos,False
+86,162,45,2,el mejor sushi de la ciudad,False
+87,86,32,5,una p*** m***** no he ido pero son uno cerdos y el sitio da por cuulo,True
+88,120,46,1,excelente los dueños maravillosos,False
+89,58,6,1,excelente los dueños maravillosos,False
+90,69,18,2,servicio lento pero comida excelente,False
+91,90,4,4,trato nefasto deberian cerrar,False
+92,171,10,4,excelente los dueños maravillosos,False
+93,39,37,4,precio calidad correcto,False
+94,80,43,4,09986,False
+95,180,47,1,una p*** m***** no he ido pero son uno cerdos y el sitio da por cuulo,True
+96,189,17,4,no vuelvo muy ruidoso,False
+97,23,24,2,precio calidad correcto,False
+98,196,40,1,,False
+99,173,36,2,así así caro y la comida no es para tanto,False
+100,51,49,3,el mejor sushi de la ciudad,False
+101,120,28,3,excelente los dueños maravillosos,False
+102,49,12,1,una p*** m***** no he ido pero son uno cerdos y el sitio da por cuulo,True
+103,120,23,4,09986,False
+104,70,27,5,no vuelvo muy ruidoso,False
+105,143,29,1,excelente los dueños maravillosos,False
+106,151,13,4,demasiado hijos p*** para mi gusto,True
+107,24,2,3,buenísimo,False
+108,185,17,2,no vuelvo muy ruidoso,False
+109,44,19,5,buenísimo,False
+110,160,17,4,demasiado hijos p*** para mi gusto,True
+111,80,27,5,así así caro y la comida no es para tanto,False
+112,93,18,5,el mejor sushi de la ciudad,False
+113,43,39,5,servicio lento pero comida excelente,False
+114,157,10,2,no vuelvo muy ruidoso,False
+115,55,1,4,trato nefasto deberian cerrar,False
+116,179,23,5,una p*** m***** no he ido pero son uno cerdos y el sitio da por cuulo,True
+117,54,44,4,demasiado hijos p*** para mi gusto,True
+118,4,26,2,no vuelvo muy ruidoso,False
+119,122,11,3,excelente los dueños maravillosos,False
+120,130,28,1,,False
+121,14,33,2,así así caro y la comida no es para tanto,False
+122,170,32,2,excelente los dueños maravillosos,False
+123,52,44,5,,False
+124,43,30,1,precio calidad correcto,False
+125,98,25,2,el mejor sushi de la ciudad,False
+126,20,24,3,precio calidad correcto,False
+127,149,33,3,no vuelvo muy ruidoso,False
+128,7,45,1,una p*** m***** no he ido pero son uno cerdos y el sitio da por cuulo,True
+129,65,48,4,09986,False
+130,183,11,4,09986,False
+131,88,15,1,el mejor sushi de la ciudad,False
+132,46,7,5,una p*** m***** no he ido pero son uno cerdos y el sitio da por cuulo,True
+133,72,40,5,trato nefasto deberian cerrar,False
+134,53,23,3,así así caro y la comida no es para tanto,False
+135,24,15,3,trato nefasto deberian cerrar,False
+136,134,14,5,así así caro y la comida no es para tanto,False
+137,113,34,4,demasiado hijos p*** para mi gusto,True
+138,78,22,5,no vuelvo muy ruidoso,False
+139,118,32,3,precio calidad correcto,False
+140,44,35,3,09986,False
+141,198,12,2,,False
+142,3,20,5,servicio lento pero comida excelente,False
+143,25,14,3,buenísimo,False
+144,51,1,4,servicio lento pero comida excelente,False
+145,12,26,1,precio calidad correcto,False
+146,152,28,4,excelente los dueños maravillosos,False
+147,104,31,5,precio calidad correcto,False
+148,73,8,3,excelente los dueños maravillosos,False
+149,105,22,3,así así caro y la comida no es para tanto,False
+150,135,2,4,trato nefasto deberian cerrar,False
+151,126,11,4,servicio lento pero comida excelente,False
+152,44,41,4,así así caro y la comida no es para tanto,False
+153,135,30,3,así así caro y la comida no es para tanto,False
+154,54,41,2,trato nefasto deberian cerrar,False
+155,128,26,3,,False
+156,170,16,1,09986,False
+157,112,21,5,el mejor sushi de la ciudad,False
+158,113,47,2,09986,False
+159,22,18,4,buenísimo,False
+160,132,20,1,excelente los dueños maravillosos,False
+161,44,21,5,una p*** m***** no he ido pero son uno cerdos y el sitio da por cuulo,True
+162,28,1,1,servicio lento pero comida excelente,False
+163,52,27,2,excelente los dueños maravillosos,False
+164,45,34,1,09986,False
+165,42,33,5,el mejor sushi de la ciudad,False
+166,120,21,3,excelente los dueños maravillosos,False
+167,24,42,5,demasiado hijos p*** para mi gusto,True
+168,4,37,1,servicio lento pero comida excelente,False
+169,103,34,3,el mejor sushi de la ciudad,False
+170,61,31,5,así así caro y la comida no es para tanto,False
+171,58,7,5,precio calidad correcto,False
+172,64,21,1,,False
+173,150,40,1,buenísimo,False
+174,11,3,4,una p*** m***** no he ido pero son uno cerdos y el sitio da por cuulo,True
+175,43,7,3,una p*** m***** no he ido pero son uno cerdos y el sitio da por cuulo,True
+176,158,8,3,el mejor sushi de la ciudad,False
+177,77,23,2,09986,False
+178,39,8,3,precio calidad correcto,False
+179,4,24,1,09986,False
+180,95,47,4,servicio lento pero comida excelente,False
+181,83,19,4,excelente los dueños maravillosos,False
+182,130,42,3,el mejor sushi de la ciudad,False
+183,98,11,2,excelente los dueños maravillosos,False
+184,4,28,3,09986,False
+185,75,38,5,trato nefasto deberian cerrar,False
+186,87,49,1,no vuelvo muy ruidoso,False
+187,108,10,1,precio calidad correcto,False
+188,29,13,1,demasiado hijos p*** para mi gusto,True
+189,44,29,2,precio calidad correcto,False
+190,145,40,2,09986,False
+191,85,16,5,09986,False
+192,160,47,4,buenísimo,False
+193,56,33,2,trato nefasto deberian cerrar,False
+194,69,3,5,demasiado hijos p*** para mi gusto,True
+195,102,19,2,,False
+196,189,48,3,buenísimo,False
+197,103,49,4,servicio lento pero comida excelente,False
+198,148,36,4,demasiado hijos p*** para mi gusto,True
+199,36,49,5,el mejor sushi de la ciudad,False
+200,65,48,2,no vuelvo muy ruidoso,False
+201,117,30,2,buenísimo,False
+202,144,23,1,no vuelvo muy ruidoso,False
+203,123,2,4,trato nefasto deberian cerrar,False
+204,142,7,4,servicio lento pero comida excelente,False
+205,120,37,4,servicio lento pero comida excelente,False
+206,12,27,2,una p*** m***** no he ido pero son uno cerdos y el sitio da por cuulo,True
+207,77,35,3,,False
+208,64,37,1,servicio lento pero comida excelente,False
+209,98,3,2,09986,False
+210,149,13,3,precio calidad correcto,False
+211,150,28,5,precio calidad correcto,False
+212,34,46,5,excelente los dueños maravillosos,False
+213,196,16,3,,False
+214,139,31,2,09986,False
+215,112,14,3,precio calidad correcto,False
+216,191,9,1,el mejor sushi de la ciudad,False
+217,56,7,2,09986,False
+218,10,27,4,trato nefasto deberian cerrar,False
+219,147,14,3,así así caro y la comida no es para tanto,False
+220,21,40,1,no vuelvo muy ruidoso,False
+221,133,45,2,09986,False
+222,18,6,3,una p*** m***** no he ido pero son uno cerdos y el sitio da por cuulo,True
+223,12,18,3,una p*** m***** no he ido pero son uno cerdos y el sitio da por cuulo,True
+224,40,18,2,no vuelvo muy ruidoso,False
+225,13,4,4,una p*** m***** no he ido pero son uno cerdos y el sitio da por cuulo,True
+226,140,38,5,el mejor sushi de la ciudad,False
+227,30,38,1,así así caro y la comida no es para tanto,False
+228,144,40,1,excelente los dueños maravillosos,False
+229,66,39,3,excelente los dueños maravillosos,False
+230,14,3,5,demasiado hijos p*** para mi gusto,True
+231,125,16,5,,False
+232,186,49,3,09986,False
+233,169,43,1,,False
+234,52,14,3,servicio lento pero comida excelente,False
+235,58,20,2,no vuelvo muy ruidoso,False
+236,148,33,1,no vuelvo muy ruidoso,False
+237,119,36,2,servicio lento pero comida excelente,False
+238,180,18,4,demasiado hijos p*** para mi gusto,True
+239,160,4,1,buenísimo,False
+240,154,19,1,trato nefasto deberian cerrar,False
+241,89,30,3,09986,False
+242,168,19,3,no vuelvo muy ruidoso,False
+243,168,10,3,trato nefasto deberian cerrar,False
+244,151,9,3,no vuelvo muy ruidoso,False
+245,193,42,2,buenísimo,False
+246,59,18,4,servicio lento pero comida excelente,False
+247,174,45,3,una p*** m***** no he ido pero son uno cerdos y el sitio da por cuulo,True
+248,116,15,5,excelente los dueños maravillosos,False
+249,70,41,1,buenísimo,False
+250,68,21,2,no vuelvo muy ruidoso,False
+251,77,46,1,servicio lento pero comida excelente,False
+252,90,38,4,buenísimo,False
+253,24,24,3,demasiado hijos p*** para mi gusto,True
+254,89,40,3,servicio lento pero comida excelente,False
+255,32,22,3,09986,False
+256,9,33,3,no vuelvo muy ruidoso,False
+257,59,10,1,el mejor sushi de la ciudad,False
+258,175,8,1,excelente los dueños maravillosos,False
+259,95,49,3,,False
+260,116,4,5,no vuelvo muy ruidoso,False
+261,176,11,5,09986,False
+262,59,28,5,precio calidad correcto,False
+263,170,28,1,una p*** m***** no he ido pero son uno cerdos y el sitio da por cuulo,True
+264,16,14,5,trato nefasto deberian cerrar,False
+265,23,1,1,trato nefasto deberian cerrar,False
+266,3,17,4,,False
+267,138,39,2,no vuelvo muy ruidoso,False
+268,39,43,5,,False
+269,187,28,5,así así caro y la comida no es para tanto,False
+270,87,24,2,no vuelvo muy ruidoso,False
+271,109,20,5,servicio lento pero comida excelente,False
+272,139,24,2,servicio lento pero comida excelente,False
+273,86,8,3,excelente los dueños maravillosos,False
+274,41,45,2,así así caro y la comida no es para tanto,False
+275,192,28,5,demasiado hijos p*** para mi gusto,True
+276,151,27,3,así así caro y la comida no es para tanto,False
+277,185,11,5,así así caro y la comida no es para tanto,False
+278,92,48,2,,False
+279,23,41,2,una p*** m***** no he ido pero son uno cerdos y el sitio da por cuulo,True
+280,171,21,2,buenísimo,False
+281,23,9,5,excelente los dueños maravillosos,False
+282,56,17,1,excelente los dueños maravillosos,False
+283,27,22,2,excelente los dueños maravillosos,False
+284,198,19,4,servicio lento pero comida excelente,False
+285,162,34,4,buenísimo,False
+286,160,33,4,así así caro y la comida no es para tanto,False
+287,26,1,2,una p*** m***** no he ido pero son uno cerdos y el sitio da por cuulo,True
+288,170,25,3,demasiado hijos p*** para mi gusto,True
+289,80,36,5,servicio lento pero comida excelente,False
+290,26,16,3,no vuelvo muy ruidoso,False
+291,2,32,1,no vuelvo muy ruidoso,False
+292,178,29,3,no vuelvo muy ruidoso,False
+293,167,9,3,09986,False
+294,103,43,1,,False
+295,7,45,3,precio calidad correcto,False
+296,193,21,4,así así caro y la comida no es para tanto,False
+297,184,43,5,precio calidad correcto,False
+298,191,20,4,el mejor sushi de la ciudad,False
+299,74,22,4,,False
+300,17,45,4,no vuelvo muy ruidoso,False
+301,160,20,4,servicio lento pero comida excelente,False
+302,174,40,2,,False
+303,191,8,2,09986,False
+304,127,6,5,servicio lento pero comida excelente,False
+305,177,36,4,buenísimo,False
+306,16,13,5,excelente los dueños maravillosos,False
+307,9,10,5,09986,False
+308,112,14,5,buenísimo,False
+309,68,46,4,servicio lento pero comida excelente,False
+310,83,25,3,no vuelvo muy ruidoso,False
+311,186,18,2,precio calidad correcto,False
+312,79,18,5,así así caro y la comida no es para tanto,False
+313,125,15,3,,False
+314,184,14,2,,False
+315,31,37,4,no vuelvo muy ruidoso,False
+316,141,7,5,así así caro y la comida no es para tanto,False
+317,183,32,2,buenísimo,False
+318,30,7,1,precio calidad correcto,False
+319,49,37,3,así así caro y la comida no es para tanto,False
+320,179,20,5,buenísimo,False
+321,29,22,3,así así caro y la comida no es para tanto,False
+322,17,19,1,el mejor sushi de la ciudad,False
+323,189,47,1,,False
+324,87,19,2,el mejor sushi de la ciudad,False
+325,146,16,2,así así caro y la comida no es para tanto,False
+326,132,15,5,una p*** m***** no he ido pero son uno cerdos y el sitio da por cuulo,True
+327,122,12,3,una p*** m***** no he ido pero son uno cerdos y el sitio da por cuulo,True
+328,180,19,3,09986,False
+329,145,34,1,excelente los dueños maravillosos,False
+330,91,20,1,una p*** m***** no he ido pero son uno cerdos y el sitio da por cuulo,True
+331,33,38,4,,False
+332,92,22,5,precio calidad correcto,False
+333,129,46,1,no vuelvo muy ruidoso,False
+334,156,28,5,el mejor sushi de la ciudad,False
+335,134,37,4,no vuelvo muy ruidoso,False
+336,45,13,3,buenísimo,False
+337,58,22,3,trato nefasto deberian cerrar,False
+338,7,4,4,una p*** m***** no he ido pero son uno cerdos y el sitio da por cuulo,True
+339,164,38,5,09986,False
+340,112,36,2,buenísimo,False
+341,130,7,4,una p*** m***** no he ido pero son uno cerdos y el sitio da por cuulo,True
+342,41,40,4,demasiado hijos p*** para mi gusto,True
+343,136,15,4,buenísimo,False
+344,73,31,3,buenísimo,False
+345,178,15,2,trato nefasto deberian cerrar,False
+346,119,16,1,,False
+347,19,16,3,09986,False
+348,197,6,5,09986,False
+349,95,29,3,precio calidad correcto,False
+350,149,16,5,buenísimo,False
+351,136,6,4,09986,False
+352,87,29,3,servicio lento pero comida excelente,False
+353,101,5,1,precio calidad correcto,False
+354,43,6,1,servicio lento pero comida excelente,False
+355,50,3,3,trato nefasto deberian cerrar,False
+356,50,33,5,servicio lento pero comida excelente,False
+357,86,26,1,excelente los dueños maravillosos,False
+358,47,11,2,no vuelvo muy ruidoso,False
+359,79,40,3,así así caro y la comida no es para tanto,False
+360,197,8,3,servicio lento pero comida excelente,False
+361,42,7,5,trato nefasto deberian cerrar,False
+362,128,48,2,no vuelvo muy ruidoso,False
+363,13,2,2,trato nefasto deberian cerrar,False
+364,175,33,2,trato nefasto deberian cerrar,False
+365,41,44,1,buenísimo,False
+366,57,8,1,trato nefasto deberian cerrar,False
+367,91,32,3,servicio lento pero comida excelente,False
+368,134,40,5,así así caro y la comida no es para tanto,False
+369,147,26,2,excelente los dueños maravillosos,False
+370,147,6,1,trato nefasto deberian cerrar,False
+371,76,31,3,trato nefasto deberian cerrar,False
+372,133,35,4,09986,False
+373,42,26,4,demasiado hijos p*** para mi gusto,True
+374,70,13,3,el mejor sushi de la ciudad,False
+375,142,39,5,no vuelvo muy ruidoso,False
+376,126,23,4,excelente los dueños maravillosos,False
+377,96,42,2,una p*** m***** no he ido pero son uno cerdos y el sitio da por cuulo,True
+378,161,33,4,demasiado hijos p*** para mi gusto,True
+379,174,15,1,no vuelvo muy ruidoso,False
+380,171,48,4,el mejor sushi de la ciudad,False
+381,122,4,3,así así caro y la comida no es para tanto,False
+382,144,38,1,precio calidad correcto,False
+383,17,43,2,excelente los dueños maravillosos,False
+384,51,4,3,excelente los dueños maravillosos,False
+385,32,36,3,el mejor sushi de la ciudad,False
+386,179,6,5,,False
+387,122,20,1,demasiado hijos p*** para mi gusto,True
+388,85,43,2,servicio lento pero comida excelente,False
+389,92,35,2,buenísimo,False
+390,55,23,3,,False
+391,43,20,3,trato nefasto deberian cerrar,False
+392,29,11,2,trato nefasto deberian cerrar,False
+393,124,38,3,servicio lento pero comida excelente,False
+394,154,28,2,servicio lento pero comida excelente,False
+395,41,3,5,09986,False
+396,13,18,2,no vuelvo muy ruidoso,False
+397,160,19,2,09986,False
+398,53,6,4,el mejor sushi de la ciudad,False
+399,85,18,2,precio calidad correcto,False
+400,83,24,5,demasiado hijos p*** para mi gusto,True
+401,188,13,1,servicio lento pero comida excelente,False
+402,156,2,2,no vuelvo muy ruidoso,False
+403,87,33,3,demasiado hijos p*** para mi gusto,True
+404,98,45,3,el mejor sushi de la ciudad,False
+405,199,13,2,precio calidad correcto,False
+406,186,28,4,,False
+407,6,17,3,09986,False
+408,45,25,5,una p*** m***** no he ido pero son uno cerdos y el sitio da por cuulo,True
+409,132,46,3,el mejor sushi de la ciudad,False
+410,157,9,4,trato nefasto deberian cerrar,False
+411,106,13,4,excelente los dueños maravillosos,False
+412,126,9,2,09986,False
+413,1,26,4,buenísimo,False
+414,194,22,1,excelente los dueños maravillosos,False
+415,70,39,4,09986,False
+416,118,46,3,el mejor sushi de la ciudad,False
+417,183,16,1,excelente los dueños maravillosos,False
+418,11,50,5,servicio lento pero comida excelente,False
+419,5,38,5,precio calidad correcto,False
+420,30,24,5,el mejor sushi de la ciudad,False
+421,125,30,4,servicio lento pero comida excelente,False
+422,34,7,3,servicio lento pero comida excelente,False
+423,47,48,4,una p*** m***** no he ido pero son uno cerdos y el sitio da por cuulo,True
+424,125,37,1,09986,False
+425,6,43,1,precio calidad correcto,False
+426,162,39,5,el mejor sushi de la ciudad,False
+427,138,48,5,el mejor sushi de la ciudad,False
+428,150,50,4,trato nefasto deberian cerrar,False
+429,34,35,4,no vuelvo muy ruidoso,False
+430,56,32,1,una p*** m***** no he ido pero son uno cerdos y el sitio da por cuulo,True
+431,97,3,5,demasiado hijos p*** para mi gusto,True
+432,165,20,3,no vuelvo muy ruidoso,False
+433,20,40,1,excelente los dueños maravillosos,False
+434,100,19,2,excelente los dueños maravillosos,False
+435,80,1,2,el mejor sushi de la ciudad,False
+436,175,26,1,09986,False
+437,58,35,1,,False
+438,55,42,2,el mejor sushi de la ciudad,False
+439,161,7,3,buenísimo,False
+440,172,45,1,servicio lento pero comida excelente,False
+441,89,45,1,excelente los dueños maravillosos,False
+442,79,22,1,así así caro y la comida no es para tanto,False
+443,16,30,3,el mejor sushi de la ciudad,False
+444,176,48,3,buenísimo,False
+445,39,2,5,buenísimo,False
+446,200,44,3,demasiado hijos p*** para mi gusto,True
+447,124,39,5,precio calidad correcto,False
+448,71,22,3,excelente los dueños maravillosos,False
+449,37,34,5,el mejor sushi de la ciudad,False
+450,152,14,3,precio calidad correcto,False
+451,77,11,2,una p*** m***** no he ido pero son uno cerdos y el sitio da por cuulo,True
+452,105,11,2,,False
+453,96,43,2,09986,False
+454,1,23,1,una p*** m***** no he ido pero son uno cerdos y el sitio da por cuulo,True
+455,158,12,4,así así caro y la comida no es para tanto,False
+456,111,23,1,09986,False
+457,87,34,3,buenísimo,False
+458,115,9,2,servicio lento pero comida excelente,False
+459,117,10,3,servicio lento pero comida excelente,False
+460,142,33,1,una p*** m***** no he ido pero son uno cerdos y el sitio da por cuulo,True
+461,150,30,1,precio calidad correcto,False
+462,56,20,4,09986,False
+463,78,8,5,buenísimo,False
+464,46,37,2,demasiado hijos p*** para mi gusto,True
+465,148,14,2,trato nefasto deberian cerrar,False
+466,199,41,4,09986,False
+467,165,50,1,precio calidad correcto,False
+468,138,26,3,así así caro y la comida no es para tanto,False
+469,184,26,1,precio calidad correcto,False
+470,108,41,1,buenísimo,False
+471,135,17,2,el mejor sushi de la ciudad,False
+472,169,42,3,demasiado hijos p*** para mi gusto,True
+473,88,38,4,buenísimo,False
+474,64,41,5,demasiado hijos p*** para mi gusto,True
+475,78,6,2,no vuelvo muy ruidoso,False
+476,46,23,2,excelente los dueños maravillosos,False
+477,166,23,3,no vuelvo muy ruidoso,False
+478,122,36,3,excelente los dueños maravillosos,False
+479,112,21,5,servicio lento pero comida excelente,False
+480,36,22,2,demasiado hijos p*** para mi gusto,True
+481,37,40,4,09986,False
+482,73,31,4,así así caro y la comida no es para tanto,False
+483,150,47,1,trato nefasto deberian cerrar,False
+484,71,17,5,una p*** m***** no he ido pero son uno cerdos y el sitio da por cuulo,True
+485,38,41,2,precio calidad correcto,False
+486,83,7,4,no vuelvo muy ruidoso,False
+487,17,10,2,precio calidad correcto,False
+488,151,6,3,precio calidad correcto,False
+489,170,29,2,así así caro y la comida no es para tanto,False
+490,64,47,3,buenísimo,False
+491,94,22,4,precio calidad correcto,False
+492,23,25,1,una p*** m***** no he ido pero son uno cerdos y el sitio da por cuulo,True
+493,151,9,4,demasiado hijos p*** para mi gusto,True
+494,106,40,3,así así caro y la comida no es para tanto,False
+495,122,7,3,excelente los dueños maravillosos,False
+496,165,24,3,una p*** m***** no he ido pero son uno cerdos y el sitio da por cuulo,True
+497,175,14,5,no vuelvo muy ruidoso,False
+498,19,44,4,el mejor sushi de la ciudad,False
+499,176,26,4,precio calidad correcto,False
+500,151,5,3,una p*** m***** no he ido pero son uno cerdos y el sitio da por cuulo,True
+501,138,45,1,servicio lento pero comida excelente,False
+502,79,6,2,así así caro y la comida no es para tanto,False
+503,98,36,2,buenísimo,False
+504,133,35,3,,False
+505,32,3,3,no vuelvo muy ruidoso,False
+506,76,6,5,no vuelvo muy ruidoso,False
+507,108,1,2,,False
+508,166,38,4,demasiado hijos p*** para mi gusto,True
+509,135,50,3,el mejor sushi de la ciudad,False
+510,150,45,3,no vuelvo muy ruidoso,False
+511,150,39,1,no vuelvo muy ruidoso,False
+512,99,40,3,buenísimo,False
+513,95,49,4,excelente los dueños maravillosos,False
+514,49,49,4,no vuelvo muy ruidoso,False
+515,78,26,1,así así caro y la comida no es para tanto,False
+516,115,35,5,demasiado hijos p*** para mi gusto,True
+517,169,17,2,el mejor sushi de la ciudad,False
+518,52,43,1,servicio lento pero comida excelente,False
+519,107,15,4,el mejor sushi de la ciudad,False
+520,97,23,2,demasiado hijos p*** para mi gusto,True
+521,53,32,4,excelente los dueños maravillosos,False
+522,77,5,1,09986,False
+523,17,13,3,así así caro y la comida no es para tanto,False
+524,109,38,3,excelente los dueños maravillosos,False
+525,62,19,2,09986,False
+526,88,14,4,demasiado hijos p*** para mi gusto,True
+527,65,45,5,buenísimo,False
+528,39,5,1,servicio lento pero comida excelente,False
+529,94,4,1,el mejor sushi de la ciudad,False
+530,187,47,2,precio calidad correcto,False
+531,155,29,2,trato nefasto deberian cerrar,False
+532,114,43,5,el mejor sushi de la ciudad,False
+533,27,8,4,buenísimo,False
+534,170,4,4,servicio lento pero comida excelente,False
+535,60,13,3,trato nefasto deberian cerrar,False
+536,129,50,2,así así caro y la comida no es para tanto,False
+537,68,10,4,demasiado hijos p*** para mi gusto,True
+538,43,2,2,una p*** m***** no he ido pero son uno cerdos y el sitio da por cuulo,True
+539,187,24,5,demasiado hijos p*** para mi gusto,True
+540,101,14,4,así así caro y la comida no es para tanto,False
+541,170,22,5,trato nefasto deberian cerrar,False
+542,25,34,2,09986,False
+543,41,39,1,servicio lento pero comida excelente,False
+544,113,45,1,así así caro y la comida no es para tanto,False
+545,194,3,5,trato nefasto deberian cerrar,False
+546,39,36,5,no vuelvo muy ruidoso,False
+547,52,47,3,el mejor sushi de la ciudad,False
+548,86,1,5,buenísimo,False
+549,159,43,1,una p*** m***** no he ido pero son uno cerdos y el sitio da por cuulo,True
+550,190,48,1,así así caro y la comida no es para tanto,False
+551,71,46,2,buenísimo,False
+552,137,39,5,09986,False
+553,8,38,1,09986,False
+554,151,40,3,excelente los dueños maravillosos,False
+555,107,15,2,una p*** m***** no he ido pero son uno cerdos y el sitio da por cuulo,True
+556,48,26,3,una p*** m***** no he ido pero son uno cerdos y el sitio da por cuulo,True
+557,165,26,4,una p*** m***** no he ido pero son uno cerdos y el sitio da por cuulo,True
+558,111,7,2,excelente los dueños maravillosos,False
+559,100,46,5,no vuelvo muy ruidoso,False
+560,118,34,3,demasiado hijos p*** para mi gusto,True
+561,125,33,2,así así caro y la comida no es para tanto,False
+562,164,47,2,servicio lento pero comida excelente,False
+563,35,1,4,excelente los dueños maravillosos,False
+564,50,27,3,demasiado hijos p*** para mi gusto,True
+565,187,5,5,trato nefasto deberian cerrar,False
+566,133,24,1,demasiado hijos p*** para mi gusto,True
+567,67,49,3,excelente los dueños maravillosos,False
+568,92,16,1,servicio lento pero comida excelente,False
+569,7,38,4,una p*** m***** no he ido pero son uno cerdos y el sitio da por cuulo,True
+570,53,5,2,el mejor sushi de la ciudad,False
+571,134,1,2,09986,False
+572,184,22,2,el mejor sushi de la ciudad,False
+573,36,40,4,excelente los dueños maravillosos,False
+574,88,38,3,así así caro y la comida no es para tanto,False
+575,76,31,4,demasiado hijos p*** para mi gusto,True
+576,100,31,5,así así caro y la comida no es para tanto,False
+577,79,45,4,una p*** m***** no he ido pero son uno cerdos y el sitio da por cuulo,True
+578,170,18,3,el mejor sushi de la ciudad,False
+579,96,49,1,09986,False
+580,79,19,5,precio calidad correcto,False
+581,10,15,4,no vuelvo muy ruidoso,False
+582,56,27,1,así así caro y la comida no es para tanto,False
+583,57,10,5,excelente los dueños maravillosos,False
+584,138,44,3,así así caro y la comida no es para tanto,False
+585,191,46,3,excelente los dueños maravillosos,False
+586,199,18,3,una p*** m***** no he ido pero son uno cerdos y el sitio da por cuulo,True
+587,179,10,2,precio calidad correcto,False
+588,121,6,4,trato nefasto deberian cerrar,False
+589,69,39,3,trato nefasto deberian cerrar,False
+590,149,17,3,el mejor sushi de la ciudad,False
+591,46,22,4,así así caro y la comida no es para tanto,False
+592,35,42,2,09986,False
+593,77,19,2,buenísimo,False
+594,122,21,4,el mejor sushi de la ciudad,False
+595,14,20,1,el mejor sushi de la ciudad,False
+596,42,36,3,no vuelvo muy ruidoso,False
+597,96,34,2,así así caro y la comida no es para tanto,False
+598,46,31,1,trato nefasto deberian cerrar,False
+599,55,4,5,trato nefasto deberian cerrar,False
+600,61,48,4,excelente los dueños maravillosos,False
+601,79,31,2,demasiado hijos p*** para mi gusto,True
+602,153,50,1,,False
+603,175,48,5,,False
+604,113,12,3,,False
+605,58,39,4,excelente los dueños maravillosos,False
+606,193,6,1,no vuelvo muy ruidoso,False
+607,116,7,1,09986,False
+608,48,50,4,,False
+609,175,11,3,una p*** m***** no he ido pero son uno cerdos y el sitio da por cuulo,True
+610,56,23,1,precio calidad correcto,False
+611,38,6,3,excelente los dueños maravillosos,False
+612,98,22,1,servicio lento pero comida excelente,False
+613,150,34,5,el mejor sushi de la ciudad,False
+614,169,8,2,09986,False
+615,113,29,5,excelente los dueños maravillosos,False
+616,110,26,5,excelente los dueños maravillosos,False
+617,190,33,4,trato nefasto deberian cerrar,False
+618,118,23,2,demasiado hijos p*** para mi gusto,True
+619,180,21,3,servicio lento pero comida excelente,False
+620,57,37,2,no vuelvo muy ruidoso,False
+621,14,49,5,excelente los dueños maravillosos,False
+622,169,30,1,el mejor sushi de la ciudad,False
+623,27,13,5,no vuelvo muy ruidoso,False
+624,109,19,4,no vuelvo muy ruidoso,False
+625,67,5,2,precio calidad correcto,False
+626,81,43,2,buenísimo,False
+627,83,46,4,buenísimo,False
+628,199,4,4,no vuelvo muy ruidoso,False
+629,90,36,4,,False
+630,95,33,3,trato nefasto deberian cerrar,False
+631,36,29,3,servicio lento pero comida excelente,False
+632,9,41,3,,False
+633,27,17,5,así así caro y la comida no es para tanto,False
+634,196,15,3,excelente los dueños maravillosos,False
+635,137,33,1,trato nefasto deberian cerrar,False
+636,23,25,2,no vuelvo muy ruidoso,False
+637,176,26,4,una p*** m***** no he ido pero son uno cerdos y el sitio da por cuulo,True
+638,182,32,3,una p*** m***** no he ido pero son uno cerdos y el sitio da por cuulo,True
+639,163,32,2,así así caro y la comida no es para tanto,False
+640,84,46,5,,False
+641,170,25,3,así así caro y la comida no es para tanto,False
+642,49,9,2,no vuelvo muy ruidoso,False
+643,45,16,5,precio calidad correcto,False
+644,142,7,5,excelente los dueños maravillosos,False
+645,7,43,5,una p*** m***** no he ido pero son uno cerdos y el sitio da por cuulo,True
+646,15,37,1,buenísimo,False
+647,24,19,1,servicio lento pero comida excelente,False
+648,62,39,2,así así caro y la comida no es para tanto,False
+649,52,31,1,no vuelvo muy ruidoso,False
+650,189,34,1,precio calidad correcto,False
+651,101,2,2,una p*** m***** no he ido pero son uno cerdos y el sitio da por cuulo,True
+652,27,47,4,09986,False
+653,156,46,3,,False
+654,138,49,3,buenísimo,False
+655,167,38,4,09986,False
+656,75,5,2,no vuelvo muy ruidoso,False
+657,122,16,1,servicio lento pero comida excelente,False
+658,152,21,2,,False
+659,118,8,4,precio calidad correcto,False
+660,78,48,1,,False
+661,81,44,5,excelente los dueños maravillosos,False
+662,126,18,1,09986,False
+663,161,26,1,09986,False
+664,135,34,4,trato nefasto deberian cerrar,False
+665,50,32,2,demasiado hijos p*** para mi gusto,True
+666,45,10,5,,False
+667,12,40,4,trato nefasto deberian cerrar,False
+668,127,14,5,una p*** m***** no he ido pero son uno cerdos y el sitio da por cuulo,True
+669,35,36,3,09986,False
+670,194,2,4,así así caro y la comida no es para tanto,False
+671,190,3,3,09986,False
+672,120,30,2,,False
+673,10,44,2,precio calidad correcto,False
+674,93,2,2,una p*** m***** no he ido pero son uno cerdos y el sitio da por cuulo,True
+675,17,48,1,,False
+676,142,8,1,,False
+677,56,8,5,el mejor sushi de la ciudad,False
+678,71,3,4,no vuelvo muy ruidoso,False
+679,43,23,1,excelente los dueños maravillosos,False
+680,96,7,4,el mejor sushi de la ciudad,False
+681,185,15,5,09986,False
+682,187,12,2,,False
+683,96,45,5,excelente los dueños maravillosos,False
+684,194,30,3,no vuelvo muy ruidoso,False
+685,193,27,3,el mejor sushi de la ciudad,False
+686,84,35,2,,False
+687,78,18,5,servicio lento pero comida excelente,False
+688,93,18,1,una p*** m***** no he ido pero son uno cerdos y el sitio da por cuulo,True
+689,70,13,5,el mejor sushi de la ciudad,False
+690,87,44,1,no vuelvo muy ruidoso,False
+691,82,37,1,el mejor sushi de la ciudad,False
+692,184,42,3,demasiado hijos p*** para mi gusto,True
+693,78,7,3,demasiado hijos p*** para mi gusto,True
+694,134,37,4,09986,False
+695,80,9,3,servicio lento pero comida excelente,False
+696,111,49,3,precio calidad correcto,False
+697,194,49,4,precio calidad correcto,False
+698,59,20,5,no vuelvo muy ruidoso,False
+699,199,44,3,así así caro y la comida no es para tanto,False
+700,84,47,4,una p*** m***** no he ido pero son uno cerdos y el sitio da por cuulo,True
+701,29,14,5,precio calidad correcto,False
+702,5,2,1,una p*** m***** no he ido pero son uno cerdos y el sitio da por cuulo,True
+703,38,2,2,no vuelvo muy ruidoso,False
+704,48,30,3,servicio lento pero comida excelente,False
+705,106,43,1,así así caro y la comida no es para tanto,False
+706,178,44,4,así así caro y la comida no es para tanto,False
+707,60,11,1,demasiado hijos p*** para mi gusto,True
+708,158,12,5,09986,False
+709,81,9,5,,False
+710,45,27,5,así así caro y la comida no es para tanto,False
+711,123,47,5,buenísimo,False
+712,79,7,5,no vuelvo muy ruidoso,False
+713,30,13,4,así así caro y la comida no es para tanto,False
+714,53,1,3,así así caro y la comida no es para tanto,False
+715,95,45,2,trato nefasto deberian cerrar,False
+716,37,10,3,una p*** m***** no he ido pero son uno cerdos y el sitio da por cuulo,True
+717,60,5,3,buenísimo,False
+718,94,21,5,trato nefasto deberian cerrar,False
+719,46,41,1,así así caro y la comida no es para tanto,False
+720,6,43,2,,False
+721,171,29,3,buenísimo,False
+722,87,41,5,demasiado hijos p*** para mi gusto,True
+723,43,42,5,el mejor sushi de la ciudad,False
+724,131,7,1,así así caro y la comida no es para tanto,False
+725,72,46,5,así así caro y la comida no es para tanto,False
+726,189,26,3,09986,False
+727,99,3,1,una p*** m***** no he ido pero son uno cerdos y el sitio da por cuulo,True
+728,3,21,1,una p*** m***** no he ido pero son uno cerdos y el sitio da por cuulo,True
+729,3,31,5,09986,False
+730,168,40,1,trato nefasto deberian cerrar,False
+731,125,36,5,no vuelvo muy ruidoso,False
+732,176,25,5,,False
+733,162,38,4,no vuelvo muy ruidoso,False
+734,29,16,5,el mejor sushi de la ciudad,False
+735,102,21,1,así así caro y la comida no es para tanto,False
+736,95,22,2,,False
+737,61,45,1,buenísimo,False
+738,92,36,5,así así caro y la comida no es para tanto,False
+739,69,40,5,demasiado hijos p*** para mi gusto,True
+740,40,13,1,excelente los dueños maravillosos,False
+741,152,23,1,excelente los dueños maravillosos,False
+742,102,50,4,así así caro y la comida no es para tanto,False
+743,200,47,2,una p*** m***** no he ido pero son uno cerdos y el sitio da por cuulo,True
+744,101,24,1,precio calidad correcto,False
+745,200,43,2,,False
+746,140,48,4,precio calidad correcto,False
+747,30,16,5,trato nefasto deberian cerrar,False
+748,76,41,1,09986,False
+749,45,9,5,buenísimo,False
+750,47,35,5,así así caro y la comida no es para tanto,False
+751,21,10,5,trato nefasto deberian cerrar,False
+752,102,29,2,trato nefasto deberian cerrar,False
+753,179,20,4,excelente los dueños maravillosos,False
+754,114,15,1,buenísimo,False
+755,199,7,3,servicio lento pero comida excelente,False
+756,106,20,4,excelente los dueños maravillosos,False
+757,195,41,4,así así caro y la comida no es para tanto,False
+758,156,41,2,precio calidad correcto,False
+759,54,38,5,,False
+760,182,46,1,precio calidad correcto,False
+761,24,37,2,buenísimo,False
+762,116,50,5,el mejor sushi de la ciudad,False
+763,111,40,4,así así caro y la comida no es para tanto,False
+764,16,48,3,demasiado hijos p*** para mi gusto,True
+765,99,27,4,no vuelvo muy ruidoso,False
+766,113,33,1,,False
+767,178,17,2,demasiado hijos p*** para mi gusto,True
+768,54,14,5,demasiado hijos p*** para mi gusto,True
+769,171,22,3,así así caro y la comida no es para tanto,False
+770,92,42,5,el mejor sushi de la ciudad,False
+771,77,8,1,así así caro y la comida no es para tanto,False
+772,160,46,3,el mejor sushi de la ciudad,False
+773,117,30,2,servicio lento pero comida excelente,False
+774,111,9,1,,False
+775,63,27,5,buenísimo,False
+776,73,23,5,una p*** m***** no he ido pero son uno cerdos y el sitio da por cuulo,True
+777,193,4,3,09986,False
+778,199,33,4,buenísimo,False
+779,31,48,2,demasiado hijos p*** para mi gusto,True
+780,93,9,1,no vuelvo muy ruidoso,False
+781,175,1,2,excelente los dueños maravillosos,False
+782,173,29,5,servicio lento pero comida excelente,False
+783,39,31,5,excelente los dueños maravillosos,False
+784,93,50,4,buenísimo,False
+785,7,46,5,buenísimo,False
+786,128,30,4,no vuelvo muy ruidoso,False
+787,136,45,4,no vuelvo muy ruidoso,False
+788,79,36,5,buenísimo,False
+789,118,22,5,trato nefasto deberian cerrar,False
+790,19,36,3,precio calidad correcto,False
+791,1,16,1,no vuelvo muy ruidoso,False
+792,189,17,5,precio calidad correcto,False
+793,83,13,1,,False
+794,76,40,1,excelente los dueños maravillosos,False
+795,163,39,5,servicio lento pero comida excelente,False
+796,86,30,1,trato nefasto deberian cerrar,False
+797,151,31,3,no vuelvo muy ruidoso,False
+798,44,29,1,,False
+799,24,26,4,una p*** m***** no he ido pero son uno cerdos y el sitio da por cuulo,True
+800,47,22,3,el mejor sushi de la ciudad,False
+801,56,32,5,demasiado hijos p*** para mi gusto,True
+802,3,36,2,precio calidad correcto,False
+803,81,17,3,trato nefasto deberian cerrar,False
+804,93,24,2,trato nefasto deberian cerrar,False
+805,60,11,2,una p*** m***** no he ido pero son uno cerdos y el sitio da por cuulo,True
+806,21,45,1,una p*** m***** no he ido pero son uno cerdos y el sitio da por cuulo,True
+807,196,10,5,servicio lento pero comida excelente,False
+808,27,33,4,precio calidad correcto,False
+809,89,5,3,el mejor sushi de la ciudad,False
+810,5,14,3,servicio lento pero comida excelente,False
+811,20,43,5,trato nefasto deberian cerrar,False
+812,109,44,4,buenísimo,False
+813,110,49,1,el mejor sushi de la ciudad,False
+814,80,1,5,trato nefasto deberian cerrar,False
+815,111,12,4,excelente los dueños maravillosos,False
+816,112,4,5,así así caro y la comida no es para tanto,False
+817,97,19,4,así así caro y la comida no es para tanto,False
+818,191,24,3,una p*** m***** no he ido pero son uno cerdos y el sitio da por cuulo,True
+819,12,3,1,no vuelvo muy ruidoso,False
+820,156,17,1,servicio lento pero comida excelente,False
+821,94,18,4,trato nefasto deberian cerrar,False
+822,186,28,2,una p*** m***** no he ido pero son uno cerdos y el sitio da por cuulo,True
+823,101,23,5,excelente los dueños maravillosos,False
+824,114,42,2,no vuelvo muy ruidoso,False
+825,147,25,2,servicio lento pero comida excelente,False
+826,96,17,3,una p*** m***** no he ido pero son uno cerdos y el sitio da por cuulo,True
+827,90,11,4,el mejor sushi de la ciudad,False
+828,16,46,4,excelente los dueños maravillosos,False
+829,181,10,3,trato nefasto deberian cerrar,False
+830,29,19,3,servicio lento pero comida excelente,False
+831,54,6,4,trato nefasto deberian cerrar,False
+832,184,34,3,buenísimo,False
+833,122,35,5,demasiado hijos p*** para mi gusto,True
+834,192,22,2,09986,False
+835,82,15,2,así así caro y la comida no es para tanto,False
+836,89,46,5,excelente los dueños maravillosos,False
+837,192,15,3,demasiado hijos p*** para mi gusto,True
+838,24,25,2,servicio lento pero comida excelente,False
+839,131,38,4,09986,False
+840,72,41,5,excelente los dueños maravillosos,False
+841,31,18,2,demasiado hijos p*** para mi gusto,True
+842,122,42,3,buenísimo,False
+843,120,26,4,así así caro y la comida no es para tanto,False
+844,77,4,2,,False
+845,111,34,3,servicio lento pero comida excelente,False
+846,114,9,2,así así caro y la comida no es para tanto,False
+847,162,3,4,demasiado hijos p*** para mi gusto,True
+848,99,24,4,excelente los dueños maravillosos,False
+849,192,16,3,,False
+850,117,19,5,una p*** m***** no he ido pero son uno cerdos y el sitio da por cuulo,True
+851,82,8,1,precio calidad correcto,False
+852,175,1,3,así así caro y la comida no es para tanto,False
+853,193,19,1,precio calidad correcto,False
+854,70,43,2,una p*** m***** no he ido pero son uno cerdos y el sitio da por cuulo,True
+855,73,35,1,09986,False
+856,92,45,5,excelente los dueños maravillosos,False
+857,46,25,4,el mejor sushi de la ciudad,False
+858,38,3,1,trato nefasto deberian cerrar,False
+859,97,45,4,09986,False
+860,65,38,5,,False
+861,142,4,4,,False
+862,150,37,3,así así caro y la comida no es para tanto,False
+863,85,11,1,una p*** m***** no he ido pero son uno cerdos y el sitio da por cuulo,True
+864,15,33,5,trato nefasto deberian cerrar,False
+865,164,46,4,el mejor sushi de la ciudad,False
+866,33,23,5,demasiado hijos p*** para mi gusto,True
+867,41,40,2,no vuelvo muy ruidoso,False
+868,38,24,3,servicio lento pero comida excelente,False
+869,150,12,4,el mejor sushi de la ciudad,False
+870,56,4,2,,False
+871,169,8,5,no vuelvo muy ruidoso,False
+872,97,40,2,,False
+873,2,8,2,trato nefasto deberian cerrar,False
+874,104,38,3,trato nefasto deberian cerrar,False
+875,84,29,3,excelente los dueños maravillosos,False
+876,66,22,5,así así caro y la comida no es para tanto,False
+877,140,42,1,demasiado hijos p*** para mi gusto,True
+878,27,38,1,buenísimo,False
+879,94,23,1,,False
+880,101,41,3,demasiado hijos p*** para mi gusto,True
+881,53,48,1,precio calidad correcto,False
+882,17,9,3,,False
+883,150,8,4,no vuelvo muy ruidoso,False
+884,103,7,1,demasiado hijos p*** para mi gusto,True
+885,145,4,3,el mejor sushi de la ciudad,False
+886,80,31,5,demasiado hijos p*** para mi gusto,True
+887,109,18,3,el mejor sushi de la ciudad,False
+888,77,4,3,trato nefasto deberian cerrar,False
+889,146,38,5,una p*** m***** no he ido pero son uno cerdos y el sitio da por cuulo,True
+890,196,10,5,el mejor sushi de la ciudad,False
+891,54,23,5,09986,False
+892,110,22,3,buenísimo,False
+893,120,9,4,09986,False
+894,87,44,2,no vuelvo muy ruidoso,False
+895,147,41,2,servicio lento pero comida excelente,False
+896,144,6,3,no vuelvo muy ruidoso,False
+897,78,3,4,una p*** m***** no he ido pero son uno cerdos y el sitio da por cuulo,True
+898,117,26,4,así así caro y la comida no es para tanto,False
+899,16,3,5,,False
+900,170,28,1,09986,False
