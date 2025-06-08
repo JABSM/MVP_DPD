@@ -48,8 +48,7 @@ Calcula HR@k == % de usuarios cuyo Top_k incluye al menos un ítem con rating re
 Calcula el tiempo de entrenamiento en s
 Entrena, predice, calcula métricas y muestra los resultados
 
-Además, si la columna "is_toxic" está presente (añadida en la etapa de limpieza
-para marcar lenguaje ofensivo en las reseñas), **NO** se elimina: el MVP quiere
+Además, si la columna "is_toxic" está presente, **NO** se elimina, se quiere
 mantener estas filas para obtener métricas. De todos modos, esas columnas no
 se utilizan para entrenar, sólo para informar del porcentaje de toxicidad en
 datos de entrada.
@@ -167,10 +166,10 @@ def main():
     knn = KNNBasic(sim_options={"name": "cosine", "user_based": False})
 
     evaluate(
-        svd, "SVD (factorización)", "svd_model", train, test, args.models_dir)
+        svd, "SVD x factorización", "svd_model", train, test, args.models_dir)
         
     evaluate(
-        knn, "KNN item-based (coseno)", "knn_item_model", train, test, args.models_dir)
+        knn, "KNN x coseno", "knn_item_model", train, test, args.models_dir)
 
 
 if __name__ == "__main__":
